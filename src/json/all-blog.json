@@ -1,0 +1,31 @@
+{
+  "recent_posts_heading": "Recent Posts",
+  "recent_posts": [
+    {
+      "title": "Your First Blog Post Title",
+      "date": "January 15, 2025",
+      "excerpt": "This is a brief excerpt or summary of your blog post content. It should be concise and engaging to encourage readers to click through.",
+      "image": "https://example.com/blog-post-image.jpg",
+      "url": "/blog/your-first-post"
+    },
+    {
+      "title": "Another Great Blog Post",
+      "date": "January 10, 2025",
+      "excerpt": "Another engaging excerpt that describes what readers will find in this post. Keep it short and compelling.",
+      "image": "https://example.com/another-post-image.jpg",
+      "url": "/blog/another-post"
+    },
+    {
+      "title": "Third Blog Post Example",
+      "date": "January 5, 2025",
+      "excerpt": "This excerpt shows how the recent posts section displays multiple blog entries in a grid layout.",
+      "image": "https://example.com/third-post-image.jpg",
+      "url": "/blog/third-post"
+    }
+  ],
+  "domain": "https://yourwebsite.com",
+  "new_script_function": [
+    "console.log('Custom script loaded');",
+    "// Add your custom JavaScript here"
+  ]
+}

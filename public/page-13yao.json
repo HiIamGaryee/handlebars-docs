@@ -1,0 +1,1658 @@
+{
+  "title": "十三幺娱乐城",
+  "website_name": "十三幺娱乐城",
+  "subtitle": "十三幺娱乐城",
+  "og_description": "Start your journey with 十三幺娱乐城. Explore safe online pokies in Online today and enjoy secure, trusted gaming. Join the fun now!",
+  "og_image": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+  "og_title": "十三幺娱乐城",
+  "og_url": " https://s2.winners33slot.online",
+  "og_type": "website",
+  "og_locale": "en_US",
+  "og_site_name": "十三幺娱乐城",
+  "og_image_width": 1200,
+  "og_image_height": 630,
+  "link": " https://s2.winners33slot.online",
+  "image": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+  "msg": "Jangan terlepas RM30 Free Kredit &amp; promo hot! Kami update hari-hari 🔥",
+  "description": "Start your journey with 十三幺娱乐城. Explore safe online pokies in Online today and enjoy secure, trusted gaming. Join the fun now!",
+  "date": "July 09, 2025",
+  "url": " https://s2.winners33slot.online",
+  "favicon": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+  "data": "",
+  "meta_title": "",
+  "favicon_png": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+  "logo_src": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+  "hamburger_icon": "https://api.infin1x.com/assets/manual_upload/file-1762099824096-242222455.webp",
+  "domain": " https://s2.winners33slot.online",
+  "site_domain": " https://s2.winners33slot.online",
+  "headline": "Best Casinos Offering Free Kredit in Malaysia",
+  "author": {
+    "name": "Ahmad Razak lee",
+    "image": "https://api.infin1x.com/assets/manual_upload/nx2pHJQGYY.png",
+    "linkedin": "https://www.linkedin.com/in/ahmadrazak"
+  },
+  "section_order": [
+    { "id": "home_banner", "seq": 1 },
+    { "id": "promotion_grid", "seq": 2 },
+    { "id": "casino_cta_buttons_outer", "seq": 3 },
+    { "id": "seo_content", "seq": 4 },
+    { "id": "new_html_function", "seq": 5 },
+    { "id": "landing_banner_v1", "seq": 6 },
+    { "id": "category_grid", "seq": 7 },
+    { "id": "new_html_function_v2", "seq": 8 },
+    { "id": "landing_banner_v2", "seq": 9 },
+    { "id": "faq", "seq": 10 },
+    { "id": "new_html_function_v3", "seq": 11 },
+    { "id": "landing_banner_v3", "seq": 12 }
+  ],
+  "fontFamilyLink": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap",
+  "fontFamily": "Poppins, sans-serif",
+
+  "fontFamilyLinkV2": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap",
+  "fontFamilyV2": "Nunito Sans, sans-serif",
+
+  "accountPanel": {
+    "enabled": true,
+    "login": { 
+      "text": "Login",
+      "url": " https://s2.winners33slot.online",
+      "image": ""
+    },
+    "register": { 
+      "text": "Register", 
+      "url": " https://s2.winners33slot.online",
+      "image": ""
+    },
+    "BottomMenuToolBarOnOff": true,
+    "actions": [
+      {
+        "key": "deposit",
+        "text": "DEPOSIT",
+        "img": "https://api.infin1x.com/assets/manual_upload/q5VAm5itMI.gif",
+        "url": "/deposit"
+      },
+      {
+        "key": "withdraw",
+        "text": "WITHDRAW",
+        "img": "https://api.infin1x.com/assets/manual_upload/2nUH1rj1RA.gif",
+        "url": "/withdraw"
+      },
+      {
+        "key": "refresh",
+        "text": "REFRESH",
+        "img": "https://api.infin1x.com/assets/manual_upload/t3bsm47Rv5.gif",
+        "api": "/account/balance"
+      }
+    ],
+    "labels": {
+      "balance": "Balance:",
+      "minDeposit": "Minimum Deposit:",
+      "minWithdraw": "Minimum Withdrawal:"
+    },
+    "currency": "AUD",    
+    "apiDomain": "https://api.example.com",
+    "balanceText": "AUD 0.00",
+    "minDepositValue": "20.00",
+    "minWithdrawValue": "50.00"
+  },
+  "spinFloatingIcon": {
+    "enabled": true,
+    "image": "https://api.infin1x.com/assets/manual_upload/file-1762693395559-382671461.webp",
+    "alt": "Spin & Win",
+    "url": " https://s2.winners33slot.online",
+    "position": "bottom-left",
+    "size": "80px"
+  },
+  "sideCertImg": {
+    "enabled": true,
+    "position": "right",
+    "items": []
+  },
+
+  "social_share": {
+    "enabled": true,
+    "items": [
+      {
+        "platform": "Facebook",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/A5lNiNWlu3.webp",
+        "alt": "Facebook"
+      },
+      {
+        "platform": "Instagram",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/1czFxY8S5z.webp",
+        "alt": "Instagram"
+      },
+   
+      {
+        "platform": "Youtube",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/a7GUSJkiGG.webp",
+        "alt": "Youtube"
+      },
+      {
+        "platform": "X",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/XzNnPRvIcc.webp",
+        "alt": "X"
+      },
+      {
+        "platform": "linkedin",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/iUd24x1Vuv.webp",
+        "alt": "LinkedIn"
+      },
+      {
+        "platform": "Telegram",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/KrjITWWPvM.webp",
+        "alt": "Telegram"
+      },
+      {
+        "platform": "HeyLink",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/N6NmkBhKE7.webp",
+        "alt": "HeyLink"
+      },
+      {
+        "platform": "Pinterest",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/hwbrY8EEy6.webp",
+        "alt": "Pinterest"
+      },
+      {
+        "platform": "TrustPilot",
+        "url": " https://s2.winners33slot.online",
+        "img": "https://api.infin1x.com/assets/manual_upload/8vx2PIsblt.webp",
+        "alt": "TrustPilot"
+      }
+    ]
+  }, 
+  "spinwheel": {
+    "enabled": true,
+    "title": "SPIN THE LUCKY 7"
+  },
+  "footer_company": "Free Kredit Malaysia",
+  "footer_address": "1791, Jalan Gajah 15, Bandar Baru Sungai Buloh 47000 Sungai Buloh, Selangor, Malaysia",
+  "footer_phone_label": "Phone",
+  "footer_phone": "+60 11-1139 9945",
+  "footer_phone_href": "+601111399945",
+  "year": "2025",
+  "site_title": "Link Free Kredit",
+  "terms_label": "Terms and Conditions",
+  "privacy_label": "Privacy Policy",
+  "tnc_email": "support@十三幺娱乐城",
+  "footerCopyright": "© 2025 十三幺娱乐城. All rights reserved. 18+ only. Please gamble responsibly.",
+  "notices": {
+    "enabled": true,
+    "items": [{ "content": "歡迎來到十三幺娱乐城，香港最大，最好，最強，最快的網上賭場宣！变 唔好唔记得介绍你啲朋友，因為呢个都係一门副业，可以帮你创造被动收入，全港条件最好嘅现金网！ 完成每日和每週紅包任務以獲得豐厚的獎金！緬甸太危險，澳門又太遠，不如直接在十三幺娱乐城13yao.com赢大獎！" }]
+  },
+  "landing_banner": {
+    "enabled": true,
+    "items": [
+      {
+        "img": "https://api.infin1x.com/assets/manual_upload/file-1762505660640-524926821.webp",
+        "url": "/",
+        "alt": "Promo 1",
+        "new_tab": false
+      }
+    ]
+  },
+  "landing_banner_v2": {
+    "enabled": true,
+    "items": []
+  },
+  "landing_banner_v3": {
+    "enabled": true,
+    "items": []
+  },
+  "sidenav": {
+    "enabled": true,
+    "logo": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+    "register_btn": {
+      "text": "REGISTER",
+      "url": " https://s2.winners33slot.online",
+      "bg": "linear-gradient(#fb0d0e, #850110)"
+    },
+    "login_text": "Already a member?",
+    "login_link": {
+      "text": "Login here",
+      "url": " https://s2.winners33slot.online"
+    },
+    "brand_ambassador_banner": {
+      "enabled": true,
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762694618901-298947149.webp",
+      "alt": "Brand Ambassador Banner"
+    },
+    "specials": [],
+  "items": [
+  {
+    "text": "首页",
+    "icon": "https://static.gwvkyk.com/media/922f24a43cb6619671611.png",
+    "url": "https://s2.winners33slot.online"
+  },
+  {
+    "text": "关于我们",
+    "icon": "https://static.gwvkyk.com/media/2bb8b3c43cb660e681c5c.png",
+    "url": "https://s2.winners33slot.online/about-us"
+  },
+  {
+    "text": "联系我们",
+    "icon": "https://api.infin1x.com/assets/manual_upload/XpyiSG4JuK.webp",
+    "url": "https://s2.winners33slot.online/contact-us"
+  },
+  {
+    "text": "隐私政策",
+    "icon": "https://api.infin1x.com/assets/manual_upload/TdQCkwtJCX.webp",
+    "url": "https://s2.winners33slot.online/privacy-policy"
+  },
+  {
+    "text": "关注我们",
+    "icon": "https://static.gwvkyk.com/media/56b7bd053cb662ce3b10c.png",
+    "children": [
+      {
+        "text": "脸书",
+        "icon": "https://static.gwvkyk.com/media/4a908372fbc6628708813.png",
+        "url": "https://s2.winners33slot.online",
+        "new_tab": true
+      },
+      {
+        "text": "电报群",
+        "icon": "https://static.gwvkyk.com/media/ff08bc27acb26.png",
+        "url": "https://s2.winners33slot.online",
+        "new_tab": true
+      },
+      {
+        "text": "Instagram",
+        "icon": "https://static.gwvkyk.com/media/af81fda1a1d26.png",
+        "url": "https://s2.winners33slot.online",
+        "new_tab": true
+      }
+    ]
+  }
+]
+
+  },
+  "body_bg_url": "",
+  "body_bg_color": "#ffffff",
+  "recent_posts_heading": "Recent Blog Posts",
+  "recent_posts": [],
+  "blog_posts": [
+    {
+      "date": "January 1, 2025",
+      "url": "/blog/how-to-claim-free-kredit-in-2025/",
+      "title": "How to Claim Free Kredit in 2025",
+      "excerpt": "Learn the easiest way to claim free credits in Malaysia. Step-by-step instructions and tips for maximizing your bonuses. Discover the best strategies to get the most out of your free kredit offers.",
+      "html": "<p>Claiming <strong>Free Kredit</strong> in 2025 is easier than ever, especially for players in Malaysia. Follow these steps to make the most of your bonuses:</p><h2>1. Choose a Trusted Casino</h2><p>Select a casino offering Free Kredit, such as <a href=\"{{domain}}link/?ap8=1\">AP8</a> or <a href=\"{{domain}}link/?barcelona888=1\">Barcelona888</a>.</p><h2>2. Sign Up</h2><p>Create an account using your email address and a secure password.</p><h2>3. Claim Your Bonus</h2><p>Follow the casino's instructions to activate your Free Kredit.</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/On2hcIODvt.png"
+    },
+    {
+      "date": "December 28, 2025",
+      "url": "/blog/top-online-casinos-malaysia-2025/",
+      "title": "Start your journey with 十三幺娱乐城. Explore safe online pokies in Online today and enjoy secure, trusted gaming. Join the fun now! 2025",
+      "excerpt": "Explore the best online casinos offering free kredit and exciting promotions in 2025. Find your favorite platform today with our comprehensive guide to Malaysia's top gaming sites.",
+      "html": "<p>Discover the <strong>best online casinos</strong> in Malaysia for 2025. These platforms offer excellent Free Kredit bonuses and exciting promotions:</p><h2>Top Casino Picks</h2><p>1. <a href=\"{{domain}}link/?77judi=1\">77judi</a> - Welcome Bonus 150%</p><p>2. <a href=\"{{domain}}link/?gangbet88=1\">Gangbet88</a> - WELCOME BONUS 120% | DAILY ALLSLOT RM3</p><p>3. <a href=\"{{domain}}link/?cashkingbet=1\">CashKingBet</a> - FREE REGISTER RM20 + DAILY FREE RM8.88</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/ll4WBrFgt4.png"
+    },
+    {
+      "date": "December 25, 2025",
+      "url": "/blog/free-kredit-no-deposit-bonuses/",
+      "title": "Free Kredit No Deposit Bonuses Guide",
+      "excerpt": "Complete guide to no-deposit bonuses in Malaysia. Learn how to claim free credits without making any deposits and maximize your winning potential.",
+      "html": "<p>Get started with <strong>no-deposit bonuses</strong> in Malaysia. These offers let you play without risking your own money:</p><h2>How No-Deposit Bonuses Work</h2><p>1. Register at a participating casino</p><p>2. Verify your account</p><p>3. Receive free credits automatically</p><p>4. Start playing immediately</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/2fn0YrYgUN.png"
+    },
+    {
+      "date": "December 20, 2025",
+      "url": "/blog/mobile-casino-gaming-malaysia/",
+      "title": "Mobile Casino Gaming in Malaysia",
+      "excerpt": "Everything you need to know about mobile casino gaming in Malaysia. From best apps to mobile-optimized sites, get the complete mobile gaming experience.",
+      "html": "<p>Mobile gaming is the future of online casinos in Malaysia. Here's everything you need to know:</p><h2>Best Mobile Casino Features</h2><p>• Responsive design for all devices</p><p>• Touch-optimized controls</p><p>• Fast loading times</p><p>• Secure mobile payments</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/O921ADy7JF.png"
+    }
+  ],
+    "all_blog_posts": [
+      {
+        "date": "January 1, 2025",
+        "url": "/blog/how-to-claim-free-kredit-in-2025/",
+        "title": "2025年免費紅利申領指南",
+        "excerpt": "了解最簡單的免費紅利領取方式，逐步教學幫助您最大化獎金，掌握最有效的技巧讓每一次紅利都更超值。",
+        "html": "<p>在2025年申領<strong>免費紅利（Free Kredit）</strong>比以往任何時候都更簡單。請按照以下步驟充分利用您的獎金：</p><h2>1. 選擇可信賴的娛樂城</h2><p>選擇提供免費紅利的娛樂城，例如 <a href=\"{{domain}}link/?ap8=1\">AP8</a> 或 <a href=\"{{domain}}link/?barcelona888=1\">Barcelona888</a>。</p><h2>2. 註冊帳號</h2><p>使用您的電子郵件地址和安全密碼建立帳號。</p><h2>3. 領取您的獎勵</h2><p>依照娛樂城的指示啟動並領取您的免費紅利。</p>",
+        "image": "https://api.infin1x.com/assets/manual_upload/u6pyVkeDFe.png"
+      },
+      {
+        "date": "December 28, 2025",
+        "url": "/blog/top-online-casinos-malaysia-2025/",
+        "title": "與十三幺娱乐城一起開啟旅程｜探索2025最安全的線上娛樂城",
+        "excerpt": "探索2025年最熱門的線上娛樂平台，了解最佳紅利優惠與豐富活動，立即找到最適合您的娛樂城。",
+        "html": "<p>探索2025年最優質的<strong>線上娛樂城</strong>。這些平台提供豐富的免費紅利與刺激優惠：</p><h2>頂級娛樂城推薦</h2><p>1. <a href=\"{{domain}}link/?77judi=1\">77judi</a> - 首存紅利150%</p><p>2. <a href=\"{{domain}}link/?gangbet88=1\">Gangbet88</a> - 首儲紅利120%｜每日老虎機免費RM3</p><p>3. <a href=\"{{domain}}link/?cashkingbet=1\">CashKingBet</a> - 免費註冊送RM20＋每日免費RM8.88</p>",
+        "image": "https://api.infin1x.com/assets/manual_upload/u6pyVkeDFe.png"
+      },
+      {
+        "date": "December 25, 2025",
+        "url": "/blog/free-kredit-no-deposit-bonuses/",
+        "title": "免存款紅利指南：免費紅利完整教學",
+        "excerpt": "完整解析免存款紅利，教您如何不花一分錢即可領取免費紅利並提升中獎機率。",
+        "html": "<p>立即開始體驗<strong>免存款紅利</strong>優惠！這些活動讓您無需冒任何風險即可開始遊玩：</p><h2>免存款紅利使用方式</h2><p>1. 註冊參與活動的娛樂城</p><p>2. 驗證您的帳號</p><p>3. 系統將自動發放免費紅利</p><p>4. 開始立即遊玩並贏取獎金</p>",
+        "image": "https://api.infin1x.com/assets/manual_upload/2fn0YrYgUN.png"
+      },
+      {
+        "date": "December 20, 2025",
+        "url": "/blog/mobile-casino-gaming-malaysia/",
+        "title": "行動娛樂城完整體驗指南",
+        "excerpt": "全面了解行動娛樂的魅力，從最佳應用程式到行動優化網站，隨時隨地暢玩最精彩的遊戲體驗。",
+        "html": "<p>行動娛樂是線上遊戲的未來。以下是您需要了解的一切：</p><h2>行動娛樂城特色</h2><p>• 適配所有裝置的響應式設計</p><p>• 觸控優化的操作介面</p><p>• 快速載入與穩定表現</p><p>• 安全可靠的行動支付系統</p>",
+        "image": "https://api.infin1x.com/assets/manual_upload/ll4WBrFgt4.png"
+      }
+    ],
+  "filteredRelated": [
+    {
+      "date": "January 1, 2025",
+      "domain": " https://s2.winners33slot.online",
+      "url": "/blog/how-to-claim-free-kredit-in-2025/",
+      "title": "How to Claim Free Kredit in 2025",
+      "excerpt": "Learn the easiest way to claim free credits in Malaysia. Step-by-step instructions and tips for maximizing your bonuses. Discover the best strategies to get the most out of your free kredit offers.",
+      "html": "<p>Claiming <strong>Free Kredit</strong> in 2025 is easier than ever, especially for players in Malaysia. Follow these steps to make the most of your bonuses:</p><h2>1. Choose a Trusted Casino</h2><p>Select a casino offering Free Kredit, such as <a href=\"{{domain}}link/?ap8=1\">AP8</a> or <a href=\"{{domain}}link/?barcelona888=1\">Barcelona888</a>.</p><h2>2. Sign Up</h2><p>Create an account using your email address and a secure password.</p><h2>3. Claim Your Bonus</h2><p>Follow the casino's instructions to activate your Free Kredit.</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/u6pyVkeDFe.png"
+    },
+    {
+      "date": "December 28, 2025",
+      "domain": " https://s2.winners33slot.online",
+      "url": "/blog/top-online-casinos-malaysia-2025/",
+      "title": "Start your journey with 十三幺娱乐城. Explore safe online pokies in Online today and enjoy secure, trusted gaming. Join the fun now! 2025",
+      "excerpt": "Explore the best online casinos offering free kredit and exciting promotions in 2025. Find your favorite platform today with our comprehensive guide to Malaysia's top gaming sites.",
+      "html": "<p>Discover the <strong>best online casinos</strong> in Malaysia for 2025. These platforms offer excellent Free Kredit bonuses and exciting promotions:</p><h2>Top Casino Picks</h2><p>1. <a href=\"{{domain}}link/?77judi=1\">77judi</a> - Welcome Bonus 150%</p><p>2. <a href=\"{{domain}}link/?gangbet88=1\">Gangbet88</a> - WELCOME BONUS 120% | DAILY ALLSLOT RM3</p><p>3. <a href=\"{{domain}}link/?cashkingbet=1\">CashKingBet</a> - FREE REGISTER RM20 + DAILY FREE RM8.88</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/u6pyVkeDFe.png"
+    }
+  ],
+  "priorityTitles": ["au99", "Pixelbet"],
+  "excluded_top_brands": ["MAMAK24", "MANCITY1894"],
+  "certImg": null,
+  "certUrl": null,
+  "canonical_url": "https: //www.s2.winners33slot.online/blog/how-to-claim-free-kredit-in-2025/",
+  "page_title": "十三幺娱乐城",
+  "meta_description": "Start your journey with 十三幺娱乐城. Explore safe online pokies in Online today and enjoy secure, trusted gaming. Join the fun now!",
+  "meta_keywords": "十三幺娱乐城 Online casino free pokies reviews AUDPlay partnership UnitedAU partnership Mrpokies partnership",
+  "meta_twitter_id": "@十三幺娱乐城",
+  "gtm_id": "",
+  "homeBanner": {
+    "enabled": true,
+    "autoSlide": true,
+    "slideInterval": 5000,
+    "showNavigation": true,
+    "showIndicators": true,
+    "backgroundColor": "linear-gradient(135deg,#1a1a1a 0%,#2d2d2d 100%)",
+    "slides": [
+      {
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762696703652-347670018.webp",
+        "mobileImg": "https://api.infin1x.com/assets/manual_upload/file-1762696703652-347670018.webp",
+        "altText": "十三幺娱乐城 Banner - Greatest Promotion",
+        "title": "",
+        "subtitle": "",
+        "buttonText": "",
+        "redirect": false,
+        "url": " https://s2.winners33slot.online",
+        "click": false
+      },
+      {
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762696711784-918728657.webp",
+        "mobileImgs": "https://api.infin1x.com/assets/manual_upload/file-1762696711784-918728657.webp",
+        "altText": "十三幺娱乐城 Banner - Largest Online Casino",
+        "title": "",
+        "subtitle": "",
+        "buttonText": "",
+        "redirect": false,
+        "url": " https://s2.winners33slot.online",
+        "click": false
+      },
+      {
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762696721544-330222398.webp",
+        "mobileImgs": "https://api.infin1x.com/assets/manual_upload/file-1762696721544-330222398.webp",
+        "altText": "十三幺娱乐城 Banner - Largest Online Casino",
+        "title": "",
+        "subtitle": "",
+        "buttonText": "",
+        "redirect": false,
+        "url": " https://s2.winners33slot.online",
+        "click": false
+      },
+      {
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762696729050-777010020.webp",
+        "mobileImgs": "https://api.infin1x.com/assets/manual_upload/file-1762696729050-777010020.webp",
+        "altText": "十三幺娱乐城 Banner - Stable & Trusted",
+        "title": "",
+        "subtitle": "",
+        "buttonText": "",
+        "redirect": false,
+        "url": " https://s2.winners33slot.online",
+        "click": false
+      }
+    ]
+  },
+  "homepage_url": " https://s2.winners33slot.online",
+  "logo_alt": "十三幺娱乐城",
+  "blog_title": "How to Claim Free Kredit in 2025",
+  "publish_date_iso": "2025-01-01",
+  "publish_date_readable": "January 1, 2025",
+  "blog_sections": [
+    {
+      "id": "intro",
+      "title": "Introduction",
+      "html": "<p>Claiming <strong>Free Kredit</strong> in 2025 is easier than ever, especially for players in Malaysia. Follow these steps to make the most of your bonuses:</p>"
+    },
+    {
+      "id": "1",
+      "title": "Choose a Trusted Casino",
+      "html": "<h2>1. Choose a Trusted Casino</h2><p>Select a casino offering Free Kredit, such as <a href=\"https: //www.s2.winners33slot.online/link/?ap8=1\">AP8</a> or <a href=\"https: //www.s2.winners33slot.online/link/?barcelona888=1\">Barcelona888</a>.</p>"
+    },
+    {
+      "id": "2",
+      "title": "Sign Up",
+      "html": "<h2>2. Sign Up</h2><p>Create an account using your email address and a secure password.</p>"
+    },
+    {
+      "id": "3",
+      "title": "Claim Your Bonus",
+      "html": "<h2>3. Claim Your Bonus</h2><p>Follow the casino&#39;s instructions to activate your Free Kredit.</p>"
+    }
+  ],
+  "floating_telegram_link": "null",
+  "floating_telegram_icon": "null",
+    "back_to_top": {
+    "enabled": true,
+    "icon": "https://www.aedb.org/asset/images/back-to-top-icon.png",
+    "scroll_threshold": 50
+  },
+  "home_game_list": {
+    "enabled": true,
+    "items": [
+      {
+        "title": "LIVE CASINO",
+        "icon": "https://static.gwvkyk.com/media/live-casino-icon.png",
+        "url": " https://s2.winners33slot.online",
+        "class": ""
+      },
+      {
+        "title": "SLOTS",
+        "icon": "https://static.gwvkyk.com/media/slot-icon.png",
+        "url": " https://s2.winners33slot.online",
+        "class": ""
+      },
+      {
+        "title": "PLAY NOW",
+        "icon": "https://static.gwvkyk.com/media/play-now-icon.png",
+        "url": " https://s2.winners33slot.online",
+        "class": "is-center"
+      },
+      {
+        "title": "SPORTS",
+        "icon": "https://static.gwvkyk.com/media/sport-icon.png",
+        "url": " https://s2.winners33slot.online",
+        "class": ""
+      },
+      {
+        "title": "FISHING",
+        "icon": "https://static.gwvkyk.com/media/fishing-icon.png",
+        "url": " https://s2.winners33slot.online",
+        "class": ""
+      }
+    ]
+  },
+  "contact_sidebar": {
+    "enabled": true,
+    "title": "CONTACT US",
+    "icon": "https://www.aedb.org/asset/images/contact/contact.png",
+    "items": [
+      {
+        "name": "Whatsapp",
+        "icon": "https://www.aedb.org/asset/images/contact/whatsapp.webp",
+        "url": " https://s2.winners33slot.online"
+      },
+      {
+        "name": "Telegram",
+        "icon": "https://www.aedb.org/asset/images/contact/telegram.webp",
+        "url": " https://s2.winners33slot.online"
+      }
+    ]
+  },
+  "page_sections_order": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "page_sections": {
+    "1": {
+      "id": "home_banner",
+      "name": "Home Banner",
+      "enabled": true,
+      "seq": 1
+    },
+    "2": {
+      "id": "home_game_list",
+      "name": "Home Game List",
+      "enabled": true,
+      "seq": 2
+    },
+    "4": {
+      "id": "landing_banner_v2",
+      "name": "Landing Banner V2",
+      "enabled": true,
+      "seq": 4
+    },
+    "5": {
+      "id": "landing_banner_v3",
+      "name": "Landing Banner V3",
+      "enabled": true,
+      "seq": 5
+    },
+    "6": {
+      "id": "category_grid",
+      "name": "Category Grid",
+      "enabled": true,
+      "seq": 6
+    },
+    "7": {
+      "id": "seo_content",
+      "name": "SEO Content & Sidebar",
+      "enabled": true,
+      "seq": 7
+    },
+    "8": {
+      "id": "recent_posts",
+      "name": "Recent Posts",
+      "enabled": true,
+      "seq": 8
+    },
+    "9": {
+      "id": "faq",
+      "name": "FAQ Section",
+      "enabled": true,
+      "seq": 9
+    },
+    "10": {
+      "id": "new_html_function",
+      "name": "Custom HTML Section",
+      "enabled": true,
+      "seq": 10
+    },
+    "11": {
+      "id": "footer",
+      "name": "Footer",
+      "enabled": true,
+      "seq": 11
+    }
+  },
+  "slidedown_message_icon": "https://api.infin1x.com/assets/manual_upload/tFlNLm6upy.gif",
+  "slidedown_message_button": "ON Sekarang!",
+  "slidedown_message": "Jangan terlepas RM30 Free Kredit &amp; promo hot! Kami update hari-hari 🔥",
+  "seo_title": "The Ultimate Online Casino Online Platform Guide 2025",
+  "seo_content": "<h1>十三幺娱乐城 - Start your journey with 十三幺娱乐城. Explore safe online pokies in Online today and enjoy secure, trusted gaming. Join the fun now!</h1><p>十三幺娱乐城 begins with one promise. It is a safe, reliable, and informative place for online pokies in Online. The platform guides players from their first spin to advanced choices. It brings knowledge, secure practices, and entertainment together. Every visitor can find value here. Beginners see clear instructions. Experienced players see new insights. Promotions, reviews, and trusted networks combine in one hub. Gambling should be fun but also safe. That is the goal. It creates trust. It shows that digital pokies can be responsible. The journey is simple. The experience is rewarding. Safety stands at the center of every choice.</p><h2>Top-Rated Online Casinos</h2><p>Players often ask where to begin, and the answer depends on choosing the right Online casino. A top site must prove trust, safety, and entertainment. The options are many, but not all are equal. A reliable casino offers licensed games that meet strict rules. It protects player data through advanced encryption. It also provides a clear layout so players can enjoy games without confusion. Four features are essential. Licensing shows legal approval. Fair games rely on certified random number generators. Secure payment systems protect deposits and withdrawals. Strong customer support ensures quick solutions. These are not extras. They are requirements for safe play. Without them, risk grows. With them, confidence builds. The Online casino market expands each year. Many new brands appear. Some bring innovation and creativity.</p><p>Others fail to meet even basic standards. This makes careful evaluation important for every player. Guides and resources reduce uncertainty. Players who compare casinos make better decisions. They protect their money, safeguard their data, and improve entertainment. Top-rated casinos stand out by delivering consistent quality. They provide safe transactions, diverse games, and honest rewards. This consistency builds trust. Trust leads to loyalty, and loyalty keeps players returning. A secure and enjoyable experience always begins with the right casino.</p><h2>Exclusive Promotions and Bonus Offers</h2><p>Promotions create excitement. They give players more ways to enjoy pokies. A strong promotion plan rewards both newcomers and loyal users.</p><p>Types of offers include:</p><ul><li>Welcome bonuses: Extra credits added to the first deposit. These help new players start with more balance.</li><li>Free spins: Spins without cost that allow testing new pokies. They are a safe way to explore.</li><li>Reload offers: Rewards for future deposits that add consistent value.</li><li>Cashback deals: Returns on losses that reduce risk and build confidence.</li></ul><p>These offers shape the online pokies experience. They extend playtime. They also encourage exploration of different games. Transparency matters. Terms and conditions must be clear. Hidden rules harm trust. Honest offers support long-term enjoyment.Some players prefer simple free spins. Others look for large match bonuses. Diversity in promotions meets varied expectations.</p><p>Reliable casinos update their promotions often. Seasonal offers and loyalty rewards keep the experience fresh. The connection between promotions and trust is strong. Players who combine careful reading with smart use of bonuses gain the best results. Bonuses are not guaranteed profit. They are tools for fun. When used wisely, they enhance entertainment without creating risk.</p><h2>Beginner and Expert Pokies Guides</h2><p>Guides help players at every stage. Beginners need structure. Experts need updates. A well-made guide offers both.</p><h3>For beginners:</h3><ul><li>Choose a secure site.</li><li>Register with correct details.</li><li>Explore free pokies reviews to test games.</li><li>Deposit funds only when ready.</li><li>Set time and budget limits.</li><li>Claim promotions with care.</li><li>Play for entertainment, not income.</li></ul><h3>For experts:</h3><ul><li>Compare game mechanics.</li><li>Study payout rates.</li><li>Track progressive jackpots.</li><li>Use free pokies reviews for new releases.</li><li>Explore loyalty schemes and VIP programs.</li></ul><p>Both groups benefit from structured advice. Short steps remove confusion. Clear tips build confidence. Guides are more than instructions. They promote responsible play. They remind players of balance. They highlight both opportunities and risks. An effective guide uses simple language. It avoids complex terms. It speaks directly to the reader. This builds trust and makes learning easier. Knowledge supports better decisions. Players who read guides reduce mistakes. They play with more awareness. They also enjoy games more fully. A good guide turns gambling from random activity into thoughtful entertainment.</p><h2>What Readers Gain from 十三幺娱乐城</h2><p>十三幺娱乐城 gives readers more than a list of pokies. It offers a complete guide to safe and enjoyable play. Every section is designed to help players make informed decisions. New players discover simple steps to get started. Experienced users find updates on bonuses, reviews, and trusted brands. The goal is always clarity. No confusing terms. No unnecessary complexity. Just direct, honest information that saves time and builds trust. Players can see which casinos are safe, which games are worth trying, and which developers deliver quality. 十三幺娱乐城 becomes not only a source of knowledge but also a companion for a safer gambling journey.</p><h2>Reviews and Ratings of New Casino Brands</h2><p>Each new brand is tested carefully. Reviews focus on licensing, security, and user experience. Ratings highlight strengths and weaknesses so players know what to expect before signing up.</p><h2>In-Depth Game and Provider Insights</h2><p>Game reviews cover both new and popular titles. They explain graphics, bonus features, and fairness. Provider insights reveal which developers build trustworthy and innovative pokies.</p><h2>Table Game Strategies and Tips</h2><p>Guides explain blackjack, roulette, and poker in clear terms. Strategies are simple, practical, and designed for real play. This makes table games less intimidating for beginners.</p><h2>Updated Bonus Offers and Deals</h2><p>Players do not need to search for promotions. Bonus lists are updated often. Readers see welcome offers, free spins, and seasonal deals in one place.</p><h2>Software Developer Reviews</h2><p>Every game comes from a developer. Reviews of providers highlight their history, reliability, and creativity. This helps players recognize which companies deliver consistent quality.</p><h2>How 十三幺娱乐城 Reviews and Rates Brands</h2><p>A fair rating system builds credibility. Players trust reviews only if they are honest. This platform uses clear criteria. Every brand is studied in detail before a score is given. Transparency makes the process reliable. Readers see what works and what fails. Honest reviews help players choose safe casinos with confidence.</p><h3>Website Design and User Experience</h3><p>A good casino site must be easy to use. Clean design and smooth navigation improve play.</p><h3>Security and Player Trust</h3><p>Safety cannot be ignored. Encryption and licensing are essential. Trust depends on strong safeguards.</p><h3>Pokies and Casino Game Variety</h3><p>Diversity matters. A wide game selection keeps players engaged. New releases should appear regularly.</p><h3>Banking Methods and Transactions</h3><p>Deposits and withdrawals must be simple. Multiple secure options increase confidence. Processing speed also matters.</p><h3>Customer Support and Service Quality</h3><p>Support must be available. Fast replies build trust. Professional service reassures players during problems.</p><h3>Bonus Features and Rewards</h3><p>Bonuses must be fair. Clear terms protect players. Rewards should feel achievable.</p><p>Together, these factors create a full picture. Players see what works and what fails. Ratings are not guesses. They are based on careful study.</p><h2>Safe Gambling Tips for Onlinen Players</h2><p>Safety is the heart of gambling. Without safety, enjoyment disappears. Players must protect themselves while playing online. Every spin involves trust. Every deposit requires protection. A safe environment allows players to relax and enjoy the experience fully.</p><p>Key practices include:</p><ul><li>Set deposit and time limits.</li><li>Use self-exclusion if needed.</li><li>Read terms before accepting bonuses.</li><li>Treat gambling as fun, not income.</li></ul><p>Support systems exist. Licensed casinos provide links to professional help. Players should use them if play feels unbalanced. The culture of safe gambling in Online is strong. Regulations support it. Tools make it practical. Partnerships also matter. The AUDPlay partnership, the UnitedAU partnership, and the Mrpokies partnership add extra trust. These collaborations create security, diversity, and reliability. They protect the future of digital gambling in the country. Safety is not a choice. It is a foundation. Players who follow safe practices enjoy longer and healthier experiences. Gambling becomes entertainment, not a problem.</p><p class=\"same_as_h2\">Conclusion</p><p>十三幺娱乐城 represents a turning point for safe pokies in Online. It proves that security, trust, and enjoyment can exist together. The platform combines guides, promotions, reviews, and partnerships into one complete hub. Players gain both knowledge and entertainment.</p><p>Through free pokies reviews, they test games before spending. Through collaborations like the AUDPlay partnership, the UnitedAU partnership, and the Mrpokies partnership, they find stronger networks and more choice. Every element works toward balance. This platform is not just another site. It is a trusted companion. It protects players while keeping the fun alive. By focusing on responsibility, fairness, and honesty, it reshapes the digital gambling landscape in Online. Start exploring safe pokies today. Join 十三幺娱乐城 and enjoy secure play with confidence.</p>",
+  "style": {
+    "cardBorder": "0 18px 40px rgba(18, 61, 133, 0.16)",
+    "sideFooterBorder": "0 -2px 18px rgba(15, 56, 114, 0.12)",
+    "globalBoxShadow": "0 20px 40px rgba(15, 56, 114, 0.18)",
+    "borderRadiusButton": "30px",
+    "borderRadiusCard": "20px",
+    "borderRadiusSmall": "12px",
+    "borderRadiusMedium": "16px",
+    "borderRadiusLarge": "28px",
+    "homeBannerBorderRadius": "16px"
+    },
+    "colors": {
+    "primary": "#2f8bff",
+    "primaryLight": "#7bc6ff",
+    "primaryBg": "#f2f7ff",
+    "secondary": "#1f4ad8",
+      "secondaryBg": "#ffffff",
+    "textSecondary": "#3a4a66",
+    "text": "#1e2a3b",
+    "textLight": "#ffffff",
+    "htmlColorP": "#4f5f7a",
+    "modePaperBorder": "1px solid rgba(47, 139, 255, 0.16)",
+    "slideDrawerPaperBg": "rgba(18, 40, 87, 0.95)",
+    "black": "#000000",
+    "footerBorderTop": "rgba(255, 255, 255, 0.08)",
+    "LoginBottonColor": "#ffffff",
+    "LoginBottonBgStart": "#4a90ff",
+    "LoginBottonBgEnd": "#1c63ff",
+    "LoginBottonBorder": "#1c63ff",
+    "LoginButtonRadius": "30px",
+    "RegisterButtonColor": "#1c63ff",
+    "RegisterButtonBgStart": "#ffffff",
+    "RegisterButtonBgEnd": "#ffffff",
+    "RegisterButtonBorder": "#ffffff",
+    "RegisterButtonRadius": "30px",
+    "white": "#ffffff",
+    "header_bg": "rgba(255,255,255,0.85)",
+    "bottomMenuBg": "#1f4ad8",
+    "header_text": "#1e2a3b",
+    "footer_bg": "#0f1f3d",
+    "footer_text": "#f1f5ff",
+    "primary_block_border": "rgba(47, 139, 255, 0.18)",
+    "divider": "rgba(30, 42, 59, 0.12)",
+    "primaryactionsHover": "#0f1f3d",
+    "lightDivider": "rgba(30, 42, 59, 0.1)",
+    "darkDivider": "rgba(15, 31, 61, 0.2)",
+    "faqQuestionBorder": "rgba(15, 31, 61, 0.2)",
+    "faqAnswerColor": "#4f5f7a",
+    "primaryactions": "#2f8bff",
+    "hamburgerBg": "rgba(47, 139, 255, 0.15)",
+    "primaryactionssec": "#1c63ff",
+    "goldAccent": "#ffe38f",
+    "giftContainerBg": "#ffffff",
+    "modePaperBg": "#ffffff",
+    "gameNextBg": "#2f8bff",
+    "gameNextBgShadow": "rgba(47, 139, 255, 0.35)",
+    "hotGamesPlayBtnColor": "#0f1f3d",
+    "hotGamesPlayBtnBg": "#ffe38f",
+    "hotGamesPlayBtnBorder": "#ffd35c",
+    "modePaperSecondaryBg": "#f6f9ff",
+    "modePaperHoverBg": "#ffffff",
+    "sideDrawerText": "#f1f5ff",
+    "giftContainerBorder": "rgba(47, 139, 255, 0.1)",
+    "giftContainerBoxShawdow": "0 18px 32px rgba(18,61,133,0.18)",
+    "overlayBg": "rgba(11,28,68,0.7)",
+    "header_submit_btn_bg": "#2f8bff",
+    "header_submit_btn_color": "#ffffff",
+    "header_submit_btn_border": "#2f8bff",
+    "header_register_btn_bg": "#ffffff",
+    "header_register_btn_color": "#1c63ff",
+    "header_register_btn_border": "rgba(255,255,255,0.4)",
+    "bottomMenuColorText": "#f1f5ff",
+    "bottomMenuColorSVG": "#f1f5ff",
+    "bottomMenuColorSVGCenter": "#1c63ff",
+    "bottomMenuColorSVGCenterShadow": "rgba(0,0,0,0.15)",
+    "bottomMenuColorSVGCenterBg": "#ffe38f",
+    "review_btn_btn_bg": "#2f8bff",
+    "review_btn_btn_color": "#ffffff",
+      "review_btn_btn_border": "transparent",
+    "textBannerBorder": "rgba(47, 139, 255, 0.2)",
+    "textBannerBg": "linear-gradient(90deg,#4a90ff,#2f8bff)",
+    "textBannerColor": "#ffffff",
+    "vendorTrackEach": "rgba(255,255,255,0.1)",
+    "footerBg": "#0f1f3d",
+    "footerText": "#f1f5ff",
+    "footerTitleColor": "#7bc6ff",
+    "footerLinkColor": "#d9e7ff",
+    "footerLinkHoverColor": "#ffffff",
+    "footerCopyrightBg": "transparent",
+    "bottomMenuItemColor": "#f1f5ff",
+    "homeButtonColor": "#1c63ff",
+    "homeButtonGradientStart": "#ffe38f",
+    "homeButtonGradientEnd": "#ffd35c",
+    "homeButtonTextColor": "#0f1f3d",
+    "homeButton": "#ffe38f",
+    "contactLeftContent": "#ffffff",
+    "contactRightBox": "#ffffff",
+    "casinoArticleBorder": "rgba(47, 139, 255, 0.12)",
+    "casinoArticleTitle": "#2f8bff",
+    "casinoArticleLabel": "#4f5f7a",
+    "postedText": "#7b8ba6",
+    "viewMoreText": "#1c63ff",
+    "sideFooterBg": "#0f1f3d",
+    "bigTitleColor": "#2f8bff",
+    "sidebarMainBg": "rgba(9,19,43,0.98)",
+    "sidebarImageItemBg": "rgba(15,31,61,0.8)",
+    "sidebarImageItemBorder": "rgba(47,139,255,0.2)",
+      "sidebarRegisterBtnText": "#ffffff",
+    "contactSidenavText": "#f1f5ff",
+    "sidebarSubmenuItemColor": "#ffffff",
+    "sidebarSubmenuItemBg": "transparent",
+    "sidebarSubmenuItemHover": "rgba(47,139,255,0.2)",
+    "footerPartnersBorder": "rgba(255,255,255,0.08)",
+    "faqBg": "#ffffff",
+    "faqTitleColor": "#1c63ff",
+      "faqBlockBg": "#ffffff",
+    "faqQuestionBg": "#f6f9ff",
+    "faqQuestionText": "#1e2a3b",
+    "faqQuestionHoverBg": "rgba(47,139,255,0.1)",
+    "faqQuestionHoverText": "#1c63ff",
+    "faqAnswerText": "#4f5f7a","sideLoginColor":"#2f8bff"
+    },
+  "gift_img": "https://api.infin1x.com/assets/manual_upload/xFqExDPtGn.gif",
+   "bottom_menu_img_main": "https://api.infin1x.com/assets/manual_upload/sfsKlvc7Hz.webp",
+"fire_gif": "https://api.infin1x.com/assets/manual_upload/Dfe402Tcga.gif",
+  "header_bg_url": "https://api.infin1x.com/assets/manual_upload/elGC3dbgbI.webp",
+  "header_bg_gradient": "radial-gradient(#133F1B, #000 75%)",
+  "repo_domain": "https://api.infin1x.com",
+  "gift_bg_url": "https://api.infin1x.com/assets/manual_upload/6FrBgroxbV.webp",
+  "footer_bg_url": "https://api.infin1x.com/assets/manual_upload/file-1762694404584-374416179.webp",
+  "footers": {
+  "columns": [],
+  "games": [
+    { "text": "首頁", "url": "https://s2.winners33slot.online" },
+    { "text": "彩票遊戲", "url": "https://s2.winners33slot.online/lottery" },
+    { "text": "捕魚遊戲", "url": "https://s2.winners33slot.online/fishing" },
+    { "text": "真人視訊", "url": "https://s2.winners33slot.online/live-casino" },
+    { "text": "棋牌遊戲", "url": "https://s2.winners33slot.online/chess" },
+    { "text": "電子遊戲", "url": "https://s2.winners33slot.online/slots" },
+    { "text": "體育競賽", "url": "https://s2.winners33slot.online/sports" }
+  ],
+  "info_links": [
+    { "text": "首頁", "url": "/" },
+    { "text": "關於我們", "url": "/about-us" },
+    { "text": "聯絡我們", "url": "/contact-us" },
+    { "text": "隱私政策", "url": "/privacy-policy" },
+    { "text": "負責任博彩", "url": "/responsible-gambling" }
+  ],
+    "image_sections": [
+      {
+        "title": "Certification",
+        "items": [
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/8bB9X2Ev96.png",
+      "alt": "BMM Logo",
+            "url": "",
+      "width": "60",
+      "height": "36"
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/Kzh0Gw9jrb.png",
+      "alt": "iTech Labs",
+            "url": "",
+      "width": "50",
+      "height": "50"
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/PZx8jjmW3e.png",
+      "alt": "Gaming International",
+            "url": "",
+      "width": "50",
+      "height": "50"
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/VzR2IdrZxZ.png",
+      "alt": "Payout Review International",
+            "url": "",
+      "width": "90",
+      "height": "54"
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/whGlCfeMDB.png",
+      "alt": "GoDaddy Verified",
+            "url": "",
+      "width": "120",
+      "height": "72"
+    }
+        ]
+      },
+      {
+        "title": "Responsible Gaming",
+        "items": [
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/file-1762098212582-151333936.webp",
+      "alt": "18+ Only",
+            "url": "https://s2.winners33slot.online/responsible-gambling"
+          }
+        ]
+    }
+  ],
+  "security": [
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/Kzh0Gw9jrb.png",
+      "alt": "Iovation Logo",
+      "width": "100",
+      "height": "60"
+    }
+  ],
+  "partners_title": "Our Trusted Partners",
+  "copyright_logo": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+    "copyright_text": "Copyright ©2019-2025 十三么娛樂城 All rights reserved",
+    "disclaimer": "十三么娛樂城 has a legal license issued by the European MGA Malta, UK GC Supervisory Commission (Gambling Commission) and the Government of the Philippines (PAGCOR). Registered in the British Virgin Islands, it is a legitimate company recognized by an international industry association. Before registering and play, please ensure that you are 18 years or older!",
+  "trust_badges": [
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/file-1762509124432-539031289.gif",
+      "alt": "logo",
+      "url": ""
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/8bB9X2Ev96.png",
+      "alt": "Gambling Help Online",
+      "url": ""
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/Kzh0Gw9jrb.png",
+      "alt": "Ecogra",
+      "url": ""
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/PZx8jjmW3e.png",
+      "alt": "Gambling Therapy",
+      "url": ""
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/VzR2IdrZxZ.png",
+      "alt": "GambleAware",
+      "url": ""
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/whGlCfeMDB.png",
+      "alt": "GamCare",
+      "url": ""
+    },
+    {
+      "src": "https://api.infin1x.com/assets/manual_upload/YVAHuUrxDL.png",
+      "alt": "GamStop",
+      "url": ""
+    },
+    {
+      "src": "https://images.dmca.com/Badges/DMCA_logo-grn-btn150w.png?ID=51629284-7f49-42b9-ac85-3f6d4fcac901",
+      "alt": "DMCA.com Protection Status",
+      "url": ""
+    }
+  ]
+},
+    "faqs": {
+      "items": [
+        {
+      "question": "更專業",
+      "answer": "每天為您提供近千場精彩體育、電競賽事，玩法多元極致享受，更有真人、棋牌、彩票、電子遊戲等多種娛樂方式隨心選擇。"
+    },
+    {
+      "question": "更安全",
+      "answer": "獨家開發，採用128位加密技術和嚴格的安全管理體系，客戶資金得到最完善的保障，讓您全情盡享娛樂、賽事投注，無後顧之憂！"
+    },
+    {
+      "question": "更便捷",
+      "answer": "自主研發的Web、H5、iOS、Android原生App，讓您隨時隨地，娛樂投注隨心所欲！7×24小時在線客服提供最貼心、最優質的服務。"
+    },
+    {
+      "question": "更快速",
+      "answer": "最新技術自主研發的財務處理系統，真正做到極速存、取、轉。獨家網絡優化技術，為您提供一流的遊戲體驗，最大優化網絡延遲。"
+    }
+  ]
+},
+  "signup_link": " https://s2.winners33slot.online",
+  "signup_title": "Sign In",
+  "BottomMenuToolBar": [
+    {
+      "title": "",
+      "class": "",
+      "url": "/",
+      "bottom_menu_img": "https://api.infin1x.com/assets/manual_upload/file-1762096945917-83094002.webp"
+    },
+    {
+      "title": "",
+      "class": "",
+      "url": "/",
+      "bottom_menu_img": "https://api.infin1x.com/assets/manual_upload/file-1762096967450-154207179.webp"
+    },
+    {
+      "title": "BONUS",
+      "class": "",
+      "url": "/",
+      "bottom_menu_img": "https://api.infin1x.com/assets/manual_upload/file-1762096473681-628348438.gif",
+      "is_center": true
+    },
+    {
+      "title": "",
+      "class": "",
+      "url": "/",
+      "bottom_menu_img": "https://api.infin1x.com/assets/manual_upload/file-1762097002080-91768997.webp"
+    },
+    {
+      "title": "",
+      "class": "",
+      "url": "/",
+      "bottom_menu_img": "https://api.infin1x.com/assets/manual_upload/file-1762097053755-127062448.webp"
+    }
+  ],
+  "excerpt": "十三幺娱乐城 is a team of gambling enthusiasts that have big experience and expertise in the industry and decided to share their knowledge with other players. To perform it we created a thematic community where we review casino operators, games and club's offers.",
+  "blog_content_html": "<p>At <strong>十三幺娱乐城</strong>, your privacy is our priority. We safeguard your personal data while providing the best online pokies experience in Online, ensuring it is secure, fun, and safe. This Privacy Policy explains how we collect, use, and protect your information. Please read carefully.</p><h2>1. What Information We Collect</h2><p>When visiting 十三幺娱乐城, we may collect personal and non-personal data such as:</p><ul><li>IP address</li><li>Device type and browser</li><li>Pages visited and time spent</li><li>Interactions with site content</li></ul><p>If you contact us via form or email, we may store your name, email, and inquiry. We never collect sensitive details like credit card numbers, government IDs, or passwords. Information is stored only to serve you better and respond to queries.</p><h2>2. How We Use Your Information</h2><p>Data helps us improve site performance, design, and security. We use it to:</p><ul><li>Enhance usability and optimize layouts</li><li>Analyze visitor behavior and trends</li><li>Respond to inquiries and feedback</li><li>Ensure the platform runs securely</li></ul><p>We do not use your information unlawfully or send marketing emails unless you opt in.</p><h2>3. Cookies and Tracking Technologies</h2><p>We use cookies to improve browsing, personalize content, and analyze performance. Types include:</p><ul><li><strong>Necessary Cookies:</strong> Enable navigation and access to secure features.</li><li><strong>Performance Cookies:</strong> Track visits, session times, and paths.</li><li><strong>Functionality Cookies:</strong> Remember preferences like language and region.</li></ul><h2>4. Sharing Your Data</h2><p>We never sell, trade, or rent your personal information. Data may be shared only in cases of:</p><ul><li><strong>Legal Requirements:</strong> Compliance with law or court order.</li><li><strong>Your Consent:</strong> If explicitly granted.</li><li><strong>Trusted Service Providers:</strong> For hosting, analytics, or security under strict protocols.</li></ul><h2>5. How We Protect Your Data</h2><p>Our data protection measures include:</p><ul><li>SSL encryption</li><li>Firewall protection</li><li>Strict access controls</li><li>Real-time monitoring for threats</li></ul><p>Though no system is 100% secure, we follow industry best practices to minimize risks and prevent unauthorized access.</p><h2>6. Your Rights and Choices</h2><p>In line with privacy laws (like GDPR), you have the right to:</p><ul><li>Access your personal data</li><li>Request corrections or updates</li><li>Request deletion (subject to legal obligations)</li><li>Withdraw consent for processing</li><li>Opt out of cookie tracking</li></ul><p>To exercise these rights, contact us via our website. We aim to respond within a few business days.</p><h2>7. Children’s Privacy</h2><p>十三幺娱乐城 is for users aged 18+. We do not knowingly collect data from minors. If we discover such data, it will be deleted immediately. Please contact us if you believe a child has submitted information.</p><h2>8. Contact Us</h2><p>If you have privacy questions or requests, reach us at:</p><ul><li>📧 Email: support@十三幺娱乐城.net</li><li>🌐 Website: <a href=\"https://十三幺娱乐城.net/\">https://十三幺娱乐城.net/</a></li></ul><p>We respond promptly, typically within a few business days.</p><h2>Your Trust, Our Promise</h2><p>We collect only what is necessary to improve your experience and never sell or misuse your data. At <strong>十三幺娱乐城</strong>, we are committed to offering Onlinens a safe, reliable, and responsible online pokies guide.</p>",
+  "blog_content_title": "Privacy Policy – 十三幺娱乐城",
+  "blog_content_date": "2025-08-09",
+  "blog_content_author_name": "十三幺娱乐城",
+
+  "blog_content_excerpt": "十三幺娱乐城 is a team of gambling enthusiasts that have big experience and expertise in the industry and decided to share their knowledge with other players. To perform it we created a thematic community where we review casino operators, games and club's offers.",
+  "blog_content_tags": [
+    {
+      "name": "十三幺娱乐城"
+    }
+  ],
+  "new_html_function": "",
+  "new_html_function_v3": "",
+  "new_html_function_v2": "",
+    "cta_buttons": {
+      "signup": {
+      "text": "Join Now",
+      "bg_color": "linear-gradient(90deg,#4a90ff,#1c63ff)",
+      "bg_img": "",
+        "text_color": "#ffffff",
+        "border_radius": "30px"
+      },
+      "login": {
+      "text": "Explore Games",
+        "bg_color": "#ffffff",
+      "bg_img": "",
+      "text_color": "#1c63ff",
+      "border_color": "#ffffff",
+        "border_radius": "30px"
+    }
+  },
+  "new_html_function_slide": [
+    {
+      "title": "Genting Casino Is Malaysia's First and The Most Iconic",
+      "description": "<p>As the first land-based casino in Malaysia, Genting Casino has a rich history and continues to offer a premium gaming experience. Situated within the Genting Highlands Resort, this casino is open from 10 AM to 2 AM, giving visitors ample time to enjoy the variety of games on offer. The casino has over 3,000 slot machines and more than 400 electronic table games that include roulette, slots and baccarat etc. Genting Casino is a haven for those who is looking to test their luck in a luxurious setting.</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762187481166-205475104.webp",
+      "contact_info": {
+        "address": "Genting Highlands Resort, 69000 Genting Highlands, Pahang, Malaysia",
+        "phone": "+65 6688 3000",
+        "hours": "Open 10 AM – 2 AM",
+        "email": "customercare@rwgenting.com"
+      }
+    },
+    {
+      "title": "Sky Casino Malaysia: Modern Gaming Excellence",
+      "description": "<p>Sky Casino Malaysia represents the pinnacle of modern casino entertainment in the region. With state-of-the-art gaming facilities and exceptional service, this venue offers an unparalleled experience for both novice and experienced players. The casino features premium gaming tables, exclusive VIP lounges, and a wide selection of international games. Sky Casino continues to set the standard for luxury gaming in Southeast Asia.</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762187481166-205475104.webp",
+      "contact_info": {
+        "address": "Genting Highlands Resort, 69000 Genting Highlands, Pahang, Malaysia",
+        "phone": "+65 6688 3100",
+        "hours": "Open 24 Hours",
+        "email": "info@skycasino.com.my"
+      }
+    },
+    {
+      "title": "Genting Casino Is Malaysia's First and The Most Iconic",
+      "description": "<p>As the first land-based casino in Malaysia, Genting Casino has a rich history and continues to offer a premium gaming experience. Situated within the Genting Highlands Resort, this casino is open from 10 AM to 2 AM, giving visitors ample time to enjoy the variety of games on offer. The casino has over 3,000 slot machines and more than 400 electronic table games that include roulette, slots and baccarat etc. Genting Casino is a haven for those who is looking to test their luck in a luxurious setting.</p>",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762187481166-205475104.webp",
+      "contact_info": {
+        "address": "Genting Highlands Resort, 69000 Genting Highlands, Pahang, Malaysia",
+        "phone": "+65 6688 3333",
+        "hours": "Open 10 AM – 2 AM",
+        "email": "customercare@rwgenting.com"
+      }
+    }
+  ],
+"new_css_function": [
+  ".blog-title{color:#e91e63;}",
+  ".logo-item span{padding:0 !important;height:120px !important;}",
+  ".logo-item.logo-130 span{height:130px!important;}",
+  ".logo-ticker {height:130px!important;}",
+"p.same-as-h2{font-size:2em;font-weight:600;color:{{colors.primary}};line-height:1.2;margin:0;}"  
+],
+  "new_script_function": ["console.log('Welcome to our website!');"],
+"review_box": [
+  {
+    "id": "1",
+    "title": "Audplay",
+    "image": "https://api.infin1x.com/assets/manual_upload/zLETchg69w.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "4000+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD5 (All Slot)" }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "UnitedAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/1zlzGBVZHj.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "20",
+    "total_games": "4300+",
+    "features": [
+      { "label": "Register Free", "value": "AUD18" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD5 (All Slot)" }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "MrPokies",
+    "image": "https://api.infin1x.com/assets/manual_upload/AoCQlLufT5.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "4100+",
+    "features": [
+      { "label": "Register Free", "value": "AUD18" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD5" }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "WD40",
+    "image": "https://api.infin1x.com/assets/manual_upload/1eZGoqmzoy.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "3800+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD5" }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Spaceman",
+    "image": "https://api.infin1x.com/assets/manual_upload/0B9IG2208v.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "3900+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "150%" }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "BestAu",
+    "image": "https://api.infin1x.com/assets/manual_upload/nNZlLevx2r.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "4200+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "80%" },
+      { "label": "Daily Free", "value": "AUD20" }
+    ]
+  },
+  {
+    "id": "7",
+    "title": "QueenAu",
+    "image": "https://api.infin1x.com/assets/manual_upload/td7jHrS8hq.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "4000+",
+    "features": [
+      { "label": "Register Free", "value": "AUD18" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD2" }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "FastSpinAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/IDi5qoH49d.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "20",
+    "total_games": "4400+",
+    "features": [
+      { "label": "Register Free", "value": "AUD15" },
+      { "label": "Welcome Bonus", "value": "180%" },
+      { "label": "Daily Free", "value": "AUD15 (All Slot)" }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "RichSpinAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/ES2ON1zpvY.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "4500+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD3" }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "TopPlayAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/5sIDVd8E5k.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "15",
+    "total_games": "4200+",
+    "features": [
+      { "label": "Register Free", "value": "AUD10" },
+      { "label": "Welcome Bonus", "value": "180%" },
+      { "label": "Daily Free", "value": "AUD10 (All Slot)" }
+    ]
+  },
+  {
+    "id": "11",
+    "title": "PokiesKingAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/nRLerdKuEK.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "25",
+    "total_games": "4600+",
+    "features": [
+      { "label": "Register Free", "value": "AUD10" },
+      { "label": "Welcome Bonus", "value": "180%" },
+      { "label": "Daily Free", "value": "AUD5" }
+    ]
+  },
+  {
+    "id": "12",
+    "title": "Bonsai",
+    "image": "https://api.infin1x.com/assets/manual_upload/p6NUGrFZD8.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "3700+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "150%" }
+    ]
+  },
+  {
+    "id": "13",
+    "title": "TAB968",
+    "image": "https://api.infin1x.com/assets/manual_upload/1Vlv2SW2HH.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "4500+",
+    "features": [
+      { "label": "Register Free", "value": "AUD30" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD20" }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "TheOneAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/uivPTpsjqB.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "20",
+    "total_games": "5000+",
+    "features": [
+      { "label": "Register Free", "value": "AUD50" },
+      { "label": "Welcome Bonus", "value": "50%" },
+      { "label": "Daily Free", "value": "AUD10" }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "SteadyAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/X531HSObUT.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "20",
+    "total_games": "4700+",
+    "features": [
+      { "label": "Register Free", "value": "AUD250" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD10" }
+    ]
+  },
+  {
+    "id": "16",
+    "title": "PokiesBillion",
+    "image": "https://api.infin1x.com/assets/manual_upload/ti00zyMv8P.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "20",
+    "total_games": "4800+",
+    "features": [
+      { "label": "Register Free", "value": "AUD10" },
+      { "label": "Welcome Bonus", "value": "170%" },
+      { "label": "Daily Free", "value": "AUD3" }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "LuxeAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/omtTXBKhVn.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "15",
+    "total_games": "4600+",
+    "features": [
+      { "label": "Register Free", "value": "AUD10" },
+      { "label": "Welcome Bonus", "value": "180%" },
+      { "label": "Daily Free", "value": "AUD3" }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "RegalAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/3rPswi1Nl0.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "4000+",
+    "features": [
+      { "label": "Register Free", "value": "AUD10" },
+      { "label": "Welcome Bonus", "value": "180%" },
+      { "label": "Daily Free", "value": "AUD5" }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "GrandAU",
+    "image": "https://api.infin1x.com/assets/manual_upload/IGNhy9jHb5.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "15",
+    "total_games": "3900+",
+    "features": [
+      { "label": "Register Free", "value": "AUD18" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD5" }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "RubyAUD",
+    "image": "https://api.infin1x.com/assets/manual_upload/3P0cbwYT7c.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "4200+",
+    "features": [
+      { "label": "Welcome Bonus", "value": "100%" },
+      { "label": "Bonus", "value": "$25" },
+      { "label": "VIP", "value": "Yes" }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Kimberley333",
+    "image": "https://api.infin1x.com/assets/manual_upload/TEG57RNZdX.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "5",
+    "total_games": "4100+",
+    "features": [
+      { "label": "Welcome Bonus", "value": "100%" },
+      { "label": "Bonus", "value": "$55" },
+      { "label": "VIP", "value": "Daily" }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Vip777AU",
+    "image": "https://api.infin1x.com/assets/manual_upload/pJiftMQw2h.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "3900+",
+    "features": [
+      { "label": "Register Free", "value": "AUD15" },
+      { "label": "Welcome Bonus", "value": "150%" },
+      { "label": "Daily Free", "value": "AUD5 (All Slot)" }
+    ]
+  },
+  {
+    "id": "23",
+    "title": "Luck777",
+    "image": "https://api.infin1x.com/assets/manual_upload/mAQOiSJo5V.webp",
+      "link": " https://s2.winners33slot.online",
+    "currency": "AUD",
+    "min_deposit": "10",
+    "total_games": "4000+",
+    "features": [
+      { "label": "Welcome Bonus", "value": "120%" },
+      { "label": "Bonus", "value": "$88" },
+      { "label": "Daily", "value": "Free Spins" }
+    ]  }
+  ],
+  "hot_games": {
+    "title": "Hot Games",
+    "items": [
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0033.png",
+        "alt": "JL0033",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/SPB/EN/SPB002.png",
+        "alt": "SPB002",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/SPB-WHITE.png",
+        "vendor_alt": "SPB"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/default.png",
+        "alt": "Default",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/FC-WHITE.png",
+        "vendor_alt": "FC"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0038.png",
+        "alt": "JL0038",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0045.png",
+        "alt": "JL0045",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/FC/EN/FC0045.png",
+        "alt": "FC0045",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/FC-WHITE.png",
+        "vendor_alt": "FC"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/PG/EN/PG0113.png",
+        "alt": "PG0113",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/PG-WHITE.png",
+        "vendor_alt": "PG"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JDB/EN/JDB189.png",
+        "alt": "JDB189",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JDB-WHITE.png",
+        "vendor_alt": "JDB"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0036.png",
+        "alt": "JL0036",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JDB/EN/JDB225.png",
+        "alt": "JDB225",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JDB-WHITE.png",
+        "vendor_alt": "JDB"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/EG4/EN/EG4147.png?t=1756261253114",
+        "alt": "EG4147",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/EG4-WHITE.png",
+        "vendor_alt": "EG4"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/PP/EN/PP0179.png",
+        "alt": "PP0179",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/PP-WHITE.png",
+        "vendor_alt": "PP"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0211.png",
+        "alt": "JL0211",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0044.png",
+        "alt": "JL0044",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/PP/EN/PP0841.png",
+        "alt": "PP0841",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/PP-WHITE.png",
+        "vendor_alt": "PP"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/PG/EN/PG0066.png",
+        "alt": "PG0066",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/PG-WHITE.png",
+        "vendor_alt": "PG"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/EG4/EN/EG4326.png?t=1756261186353",
+        "alt": "EG4326",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/EG4-WHITE.png",
+        "vendor_alt": "EG4"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/BNG/EN/BNG084.png",
+        "alt": "BNG084",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/BNG-WHITE.png",
+        "vendor_alt": "BNG"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/BT/EN/BT0085.png",
+        "alt": "BT0085",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/BT-WHITE.png",
+        "vendor_alt": "BT"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0223.png",
+        "alt": "JL0223",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0167.png",
+        "alt": "JL0167",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/JL/EN/JL0212.png",
+        "alt": "JL0212",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/JL-WHITE.png",
+        "vendor_alt": "JL"
+      },
+      {
+        "icon": "https://images.5943920202.com/TCG_GAME_ICONS/rx2/PG/EN/PG0144.png",
+        "alt": "PG0144",
+        "vendor_icon": "https://images.5943920202.com/TCG_PROD_IMAGES/RNG_LIST_VENDOR/PG-WHITE.png",
+        "vendor_alt": "PG"
+      }
+    ]
+  },
+  "all_games": {
+    "title": "All Games",
+    "icon": "https://api.infin1x.com/assets/manual_upload/dlutcQHYsO.webp",
+      "url": " https://s2.winners33slot.online",
+      "show": true
+  }, 
+  
+    "vendor_track": [
+      { "code": "AUDPLAY168", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691821798-853958652.webp", "name": "AUDPLAY168", "url": "" },
+      { "code": "UNITEDAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691816304-678191878.webp", "name": "UNITEDAU", "url": "" },
+      { "code": "MRPOKIES", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691810454-91327204.webp", "name": "MRPOKIES", "url": "" },
+      { "code": "WD40", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691804863-417203859.webp", "name": "WD40", "url": "" },
+      { "code": "SPACEMAN369", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691800359-378892597.webp", "name": "SPACEMAN369", "url": "" },
+      { "code": "BESTAU77", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691795388-669162217.webp", "name": "BESTAU77", "url": "" },
+      { "code": "QUEENAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691789613-701524376.webp", "name": "QUEENAU", "url": "" },
+      { "code": "FASTSPINAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691781549-621223162.webp", "name": "FASTSPINAU", "url": "" },
+      { "code": "RICHSPINAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691775319-826386712.webp", "name": "RICHSPINAU", "url": "" },
+      { "code": "TOPPLAYAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691770334-848784921.webp", "name": "TOPPLAYAU", "url": "" },
+      { "code": "POKIESKINGAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691765115-147111645.webp", "name": "POKIESKINGAU", "url": "" },
+      { "code": "BONSAI369", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691760200-19654966.webp", "name": "BONSAI369", "url": "" },
+      { "code": "TAB968", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691753123-796964690.webp", "name": "TAB968", "url": "" },
+      { "code": "THEONEAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691747599-28146347.webp", "name": "THEONEAU", "url": "" },
+      { "code": "STEADYAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691741064-670133217.webp", "name": "STEADYAU", "url": "" },
+      { "code": "POKIESBILLION", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691735824-27920971.webp", "name": "POKIESBILLION", "url": "" },
+      { "code": "LUXEAU777", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691730584-441715072.webp", "name": "LUXEAU777", "url": "" },
+      { "code": "REGALAU777", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691724544-384302723.webp", "name": "REGALAU777", "url": "" },
+      { "code": "GRANDAU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691719848-526113054.webp", "name": "GRANDAU", "url": "" },
+      { "code": "RUBYAUD", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691715113-10857807.webp", "name": "RUBYAUD", "url": "" },
+      { "code": "KIMBERLEY333", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691707760-656491251.webp", "name": "KIMBERLEY333", "url": "" },
+      { "code": "VIP777AU", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691703184-288678434.webp", "name": "VIP777AU", "url": "" },
+      { "code": "LUCK777", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691696804-138606828.webp", "name": "LUCK777", "url": "" },
+      { "code": "AUDPLAY168v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691688235-321415535.webp", "name": "AUDPLAY168v2", "url": "" },
+      { "code": "UNITEDAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691682989-162074953.webp", "name": "UNITEDAUv2", "url": "" },
+      { "code": "MRPOKIESv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691678224-586403751.webp", "name": "MRPOKIESv2", "url": "" },
+      { "code": "WD40v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691673765-997526686.webp", "name": "WD40v2", "url": "" },
+      { "code": "SPACEMAN369v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691661104-358175190.webp", "name": "SPACEMAN369v2", "url": "" },
+      { "code": "BESTAU77v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691654104-947206909.webp", "name": "BESTAU77v2", "url": "" },
+      { "code": "QUEENAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691648309-918395968.webp", "name": "QUEENAUv2", "url": "" },
+      { "code": "FASTSPINAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691641489-414369201.webp", "name": "FASTSPINAUv2", "url": "" },
+      { "code": "RICHSPINAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691636269-271831874.webp", "name": "RICHSPINAUv2", "url": "" },
+      { "code": "TOPPLAYAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691631818-895373342.webp", "name": "TOPPLAYAUv2", "url": "" },
+      { "code": "POKIESKINGAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691625904-657505773.webp", "name": "POKIESKINGAUv2", "url": "" },
+      { "code": "BONSAI369v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691617884-711040426.webp", "name": "BONSAI369v2", "url": "" },
+      { "code": "TAB968v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691612364-180157500.webp", "name": "TAB968v2", "url": "" },
+      { "code": "THEONEAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691605754-995942630.webp", "name": "THEONEAUv2", "url": "" },
+      { "code": "STEADYAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691600623-459722433.webp", "name": "STEADYAUv2", "url": "" },
+      { "code": "POKIESBILLIONv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691595835-857431418.webp", "name": "POKIESBILLIONv2", "url": "" },
+      { "code": "LUXEAU777v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691590903-910140509.webp", "name": "LUXEAU777v2", "url": "" },
+      { "code": "REGALAU777v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691584048-243708742.webp", "name": "REGALAU777v2", "url": "" },
+      { "code": "GRANDAUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691577839-135026877.webp", "name": "GRANDAUv2", "url": "" },
+      { "code": "RUBYAUDv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691572184-24041281.webp", "name": "RUBYAUDv2", "url": "" },
+      { "code": "KIMBERLEY333v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691567609-681888762.webp", "name": "KIMBERLEY333v2", "url": "" },
+      { "code": "VIP777AUv2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691560433-290906238.webp", "name": "VIP777AUv2", "url": "" },
+      { "code": "LUCK777v2", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691555884-390277418.webp", "name": "LUCK777v2", "url": "" },
+      { "code": "AUDPLAY168v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691548344-300046607.webp", "name": "AUDPLAY168v3", "url": "" },
+      { "code": "UNITEDAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691542368-418965794.webp", "name": "UNITEDAUv3", "url": "" },
+      { "code": "MRPOKIESv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691536574-479870532.webp", "name": "MRPOKIESv3", "url": "" },
+      { "code": "WD40v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691532129-869962769.webp", "name": "WD40v3", "url": "" },
+      { "code": "SPACEMAN369v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691522714-423622991.webp", "name": "SPACEMAN369v3", "url": "" },
+      { "code": "BESTAU77v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691517383-86332654.webp", "name": "BESTAU77v3", "url": "" },
+      { "code": "QUEENAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691512159-298460778.webp", "name": "QUEENAUv3", "url": "" },
+      { "code": "FASTSPINAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691501814-565690916.webp", "name": "FASTSPINAUv3", "url": "" },
+      { "code": "RICHSPINAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691491104-642514272.webp", "name": "RICHSPINAUv3", "url": "" },
+      { "code": "TOPPLAYAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691483158-831898908.webp", "name": "TOPPLAYAUv3", "url": "" },
+      { "code": "POKIESKINGAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691479209-976223585.webp", "name": "POKIESKINGAUv3", "url": "" },
+      { "code": "BONSAI369v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691421424-981312772.webp", "name": "BONSAI369v3", "url": "" },
+      { "code": "TAB968v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691415184-977424694.webp", "name": "TAB968v3", "url": "" },
+      { "code": "THEONEAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691405735-170405311.webp", "name": "THEONEAUv3", "url": "" },
+      { "code": "STEADYAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691398303-294338975.webp", "name": "STEADYAUv3", "url": "" },
+      { "code": "POKIESBILLIONv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691388483-229474405.webp", "name": "POKIESBILLIONv3", "url": "" },
+      { "code": "LUXEAU777v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691382699-216199997.webp", "name": "LUXEAU777v3", "url": "" },
+      { "code": "REGALAU777v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691379234-846286464.webp", "name": "REGALAU777v3", "url": "" },
+      { "code": "GRANDAUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691374463-915703501.webp", "name": "GRANDAUv3", "url": "" },
+      { "code": "RUBYAUDv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691356104-332657785.webp", "name": "RUBYAUDv3", "url": "" },
+      { "code": "KIMBERLEY333v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762691340279-41183121.webp", "name": "KIMBERLEY333v3", "url": "" },
+      { "code": "VIP777AUv3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690819308-613992868.webp", "name": "VIP777AUv3", "url": "" },
+      { "code": "LUCK777v3", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690809384-594751454.webp", "name": "LUCK777v3", "url": "" },
+      { "code": "AUDPLAY168v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690533249-496006375.webp", "name": "AUDPLAY168v4", "url": "" },
+      { "code": "UNITEDAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690521619-157961603.webp", "name": "UNITEDAUv4", "url": "" },    { "code": "MRPOKIESv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690512439-355053788.webp", "name": "MRPOKIESv4", "url": "" },
+      { "code": "WD40v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690504384-542245152.webp", "name": "WD40v4", "url": "" },
+      { "code": "SPACEMAN369v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690501679-861600719.webp", "name": "SPACEMAN369v4", "url": "" },
+      { "code": "BESTAU77v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690493984-326128308.webp", "name": "BESTAU77v4", "url": "" },
+      { "code": "QUEENAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690488913-130405502.webp", "name": "QUEENAUv4", "url": "" },
+      { "code": "FASTSPINAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690482683-982341455.webp", "name": "FASTSPINAUv4", "url": "" },
+      { "code": "RICHSPINAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690475893-471080677.webp", "name": "RICHSPINAUv4", "url": "" },
+      { "code": "TOPPLAYAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690471524-878358293.webp", "name": "TOPPLAYAUv4", "url": "" },
+      { "code": "POKIESKINGAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690446024-728418097.webp", "name": "POKIESKINGAUv4", "url": "" },
+      { "code": "BONSAI369v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690439724-197741792.webp", "name": "BONSAI369v4", "url": "" },
+      { "code": "TAB968v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690411119-342941136.webp", "name": "TAB968v4", "url": "" },
+      { "code": "THEONEAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690405484-18753419.webp", "name": "THEONEAUv4", "url": "" },
+      { "code": "STEADYAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690397624-574179242.webp", "name": "STEADYAUv4", "url": "" },
+      { "code": "POKIESBILLIONv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690388799-511681135.webp", "name": "POKIESBILLIONv4", "url": "" },
+      { "code": "LUXEAU777v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690384344-521929868.webp", "name": "LUXEAU777v4", "url": "" },
+      { "code": "REGALAU777v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690369187-442560850.webp", "name": "REGALAU777v4", "url": "" },
+      { "code": "GRANDAUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690363989-892739189.webp", "name": "GRANDAUv4", "url": "" },
+      { "code": "RUBYAUDv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690342233-930921010.webp", "name": "RUBYAUDv4", "url": "" },
+      { "code": "KIMBERLEY333v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690341864-75728799.webp", "name": "KIMBERLEY333v4", "url": "" },
+      { "code": "VIP777AUv4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690309914-571628148.webp", "name": "VIP777AUv4", "url": "" },
+      { "code": "LUCK777v4", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690308706-705017699.webp", "name": "LUCK777v4", "url": "" },
+      { "code": "AUDPLAY168v5", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690282554-325459917.webp", "name": "AUDPLAY168v5", "url": "" },
+      { "code": "UNITEDAUv5", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690279519-986899807.webp", "name": "UNITEDAUv5", "url": "" },
+      { "code": "MRPOKIESv5", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690279140-23639685.webp", "name": "MRPOKIESv5", "url": "" },
+      { "code": "SPACEMAN369v5", "icon": "https://api.infin1x.com/assets/manual_upload/file-1762690238805-435018736.webp", "name": "SPACEMAN369v5", "url": "" }
+    ]
+,"navlist": [
+  { "text": "首頁", "url": "https://s2.winners33slot.online", "icon": "" },
+  { "text": "彩票遊戲", "url": "https://s2.winners33slot.online/lottery", "icon": "" },
+  { "text": "捕魚遊戲", "url": "https://s2.winners33slot.online/fishing", "icon": "" },
+  { "text": "真人視訊", "url": "https://s2.winners33slot.online/live-casino", "icon": "" },
+  { "text": "棋牌遊戲", "url": "https://s2.winners33slot.online/chess", "icon": "" },
+  { "text": "電子遊戲", "url": "https://s2.winners33slot.online/slots", "icon": "" },
+  { "text": "體育競賽", "url": "https://s2.winners33slot.online/sports", "icon": "" }
+],
+  "gamesButtonTitle": "Start",
+"promotion_grid": {
+  "enabled": true,
+  "title": "",
+  "description": "",
+  "items": [
+    {
+      "title": "日日充值簽到，日日送不停",
+      "subtitle": "新會員首充專屬禮遇！",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762693158335-367777367.webp",
+      "url": "https://s2.winners33slot.online",
+      "alt": "Promotion 1"
+    },
+    {
+      "title": "HKD1000開局 送HKD1680",
+      "subtitle": "新會員首充專屬禮遇！",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762693167838-212920630.webp",
+      "url": "https://s2.winners33slot.online",
+      "alt": "Promotion 2"
+    },
+    {
+      "title": "HKD1000再送HKD1280",
+      "subtitle": "二充活動限時開放！",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762693177374-199283285.webp",
+      "url": "https://s2.winners33slot.online",
+      "alt": "Promotion 3"
+    },
+    {
+      "title": "充HKD1000即送HKD880",
+      "subtitle": "三充再加碼，驚喜不間斷！",
+      "image": "https://api.infin1x.com/assets/manual_upload/file-1762693189239-699444498.webp",
+      "url": "https://s2.winners33slot.online",
+      "alt": "Promotion 4"
+    }
+  ]
+},
+
+
+  "category_grid": {
+    "enabled": true,
+    "title": "娛樂城遊戲種類",
+    "description": "煥新生活Game One 娛樂城開始！最多類型最多玩法，為您打造高品質娛樂環境！",
+    "items": [
+      {
+        "title": "彩票遊戲",
+        "description": "金山娛樂城提供多種受歡迎的彩票遊戲，包括雙色球、快樂8、PK10、幸運28等多款選擇。玩家可以透過簡單的操作體驗即時開獎的刺激感，系統公平公開，結果透明，讓每一次投注都更安心。",
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762678584340-973590575.webp",
+        "url": "https://s2.winners33slot.online",
+        "alt": "彩票遊戲",
+        "bg_color": "#fffef0"
+      },
+      {
+        "title": "捕魚遊戲",
+        "description": "刺激又療癒的捕魚遊戲是金山娛樂城的人氣選項之一。精緻的畫面、流暢的特效以及高倍獎勵系統，讓玩家能透過技巧與運氣捕捉大魚贏得豐厚獎金。適合輕鬆娛樂或競技挑戰的玩家。",
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762678491031-740218449.webp",
+        "url": "https://s2.winners33slot.online",
+        "alt": "捕魚遊戲",
+        "bg_color": "#f8fff0"
+      },
+      {
+        "title": "真人視訊",
+        "description": "金山娛樂城設有專業的真人視訊平台，匯聚來自歐美與亞洲的專業荷官。玩家可即時與荷官互動，體驗如同實體賭場的真實感。熱門遊戲包括百家樂、輪盤、骰寶與龍虎等，支援高清串流與多語系介面。",
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762678422678-916473540.webp",
+        "url": "https://s2.winners33slot.online",
+        "alt": "真人視訊",
+        "bg_color": "#f0f4ff"
+      },
+      {
+        "title": "棋牌遊戲",
+        "description": "喜愛策略與競技的玩家可在金山娛樂城找到多款棋牌遊戲，如德州撲克、鬥地主、麻將與十三張等。系統公平、公正，並支援好友對戰與即時排行榜，增添遊戲樂趣與挑戰性。",
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762678665968-201574977.webp",
+        "url": "https://s2.winners33slot.online",
+        "alt": "棋牌遊戲",
+        "bg_color": "#f4f0ff"
+      },
+      {
+        "title": "電子遊戲",
+        "description": "金山娛樂城匯集上百款電子遊戲（Slot），由國際知名遊戲供應商如JILI、PG Soft、Pragmatic Play、Mega888、918Kiss等提供。主題多元、玩法創新，從經典水果機到冒險風格皆應有盡有，滿足不同玩家喜好。",
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762677848750-619584119.webp",
+        "url": "https://s2.winners33slot.online",
+        "alt": "電子遊戲",
+        "bg_color": "#fff4f0"
+      },
+      {
+        "title": "體育競賽",
+        "description": "熱愛運動賽事的用戶可在金山娛樂城參與體育競賽投注。平台涵蓋足球、籃球、網球、電子競技等多種類別，提供即時賠率與數據分析，讓投注過程更具策略性與趣味性。",
+        "image": "https://api.infin1x.com/assets/manual_upload/file-1762678302844-189945135.webp",
+        "url": "https://s2.winners33slot.online",
+        "alt": "體育競賽",
+        "bg_color": "#f0f8ff"
+      }
+    ]
+  }
+
+
+
+}
