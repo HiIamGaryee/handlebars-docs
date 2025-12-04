@@ -4,24 +4,20 @@
 
 ## Overview
 
-本指南將幫助您複製現有的子頁面模板，並創建一個新的頁面。按照以下步驟操作即可快速建立新頁面。
+This guide will help you clone an existing sub-page template and create a new page. Follow the steps below to quickly set up a new page.
 
-克隆頁面的流程包括：獲取範例檔案、重新命名、替換參數等步驟。
+The cloning process includes: getting example files, renaming them, and replacing parameters.
 
 ## Step 1: Get Example .hbs File
 
-首先，您需要獲取一個範例的 Handlebars 模板檔案（.hbs）。您可以從現有的頁面中複製，例如：
+First, you need to get an example Handlebars template file (.hbs) for subpages.
 
-- `all-blog.hbs`
-- `example-page.hbs`
-- 或其他現有的模板檔案
-
-**範例 .hbs 檔案結構：**
+**Example .hbs file structure:**
 
 ```handlebars
 <!-- Example: all-blog.hbs -->
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>{{page_title}}</title>
@@ -30,7 +26,7 @@
 <body>
   <!-- Header -->
   {{> header}}
-  
+
   <!-- Main Content -->
   <main>
     <h1>{{blog_content_title}}</h1>
@@ -38,20 +34,20 @@
       {{{blog_content_html}}}
     </div>
   </main>
-  
+
   <!-- Footer -->
   {{> footer}}
 </body>
 </html>
 ```
 
-**提示：** 確保您選擇的範例檔案包含您需要的所有區塊（Header、Footer、主要內容等）。
+**Tip:** Make sure the example file you choose contains all the blocks you need (Header, Footer, main content, etc.).
 
 ## Step 2: Get Example JSON File
 
-接下來，獲取對應的 JSON 資料檔案。這個檔案包含了頁面所需的所有資料和設定。
+Next, get the corresponding JSON data file. This file contains all the data and settings needed for the page.
 
-**範例 JSON 檔案（原始範例）：**
+**Example JSON file (original example):**
 
 ```json
 {
@@ -86,201 +82,108 @@
 }
 ```
 
-**提示：** JSON 檔案應該包含所有必要的欄位，包括 SEO 設定、內容資料、頁面資訊等。
+**Tip:** The JSON file should include all necessary fields, including SEO settings, content data, page information, etc.
 
 ## Step 3: Rename Files
 
-根據您想要的 URL 路徑來重新命名檔案。
+Rename the files according to your desired URL path.
 
-**命名規則：**
+**Naming rules:**
 
-- 如果您的 URL 是 `https://abc.com/abcd`，則檔案名稱應為 `abcd`
-- .hbs 檔案命名為：`abcd.hbs`
-- JSON 檔案命名為：`abcd.json`
+- If your URL is `https://abc.com/abcd`, then the file name should be `abcd`
+- .hbs file named as: `abcd.hbs`
+- JSON file named as: `abcd.json`
 
-**範例：**
+**Examples:**
 
-- URL: `https://example.com/products` → 檔案: `products.hbs` 和 `products.json`
-- URL: `https://example.com/about-us` → 檔案: `about-us.hbs` 和 `about-us.json`
+- URL: `https://example.com/products` → Files: `products.hbs` and `products.json`
+- URL: `https://example.com/about-us` → Files: `about-us.hbs` and `about-us.json`
 
 ## Step 4: Replace Parameters
 
-在 JSON 檔案中，您需要替換以下參數為您自己的內容：
+In the JSON file, you need to replace the following parameters with your own content:
 
-### 4.1 基本頁面參數
+### Main Parameters to Replace:
 
-替換以下基本頁面資訊：
-
-```json
-{
-  "title": "你的網站名稱",
-  "website_name": "你的網站名稱",
-  "subtitle": "你的網站副標題",
-  "og_description": "你的網站描述，用於社交媒體分享預覽。",
-  "og_image": "https://yourdomain.com/assets/og-image.webp",
-  "og_title": "你的網站標題｜副標題",
-  "og_url": "https://yourdomain.com",
-  "og_type": "website",
-  "og_locale": "zh_TW",
-  "og_site_name": "你的網站名稱",
-  "og_image_width": 1200,
-  "og_image_height": 630,
-  "excerpt": "你的網站簡短描述。",
-  "blog_content_html": "你的完整內容 HTML...",
-  "blog_content_title": "你的文章標題",
-  "blog_content_date": "2025-01-15",
-  "blog_content_author_name": "你的作者名稱",
-  "blog_content_excerpt": "你的文章簡短摘要。",
-  "blog_content_tags": [
-    {
-      "name": "標籤1"
-    },
-    {
-      "name": "標籤2"
-    }
-  ],
-  "description": "你的網站描述。",
-  "page_title": "你的頁面標題",
-  "meta_description": "你的 SEO 描述。",
-  "meta_keywords": "關鍵字1, 關鍵字2, 關鍵字3",
-  "meta_twitter_id": "@你的Twitter帳號"
-}
-```
-
-### 4.2 Header 和 Footer 參數
-
-替換 Header 和 Footer 相關的參數：
-
-```json
-{
-  "logo_src": "https://yourdomain.com/assets/logo.png",
-  "logo_alt": "你的網站 Logo",
-  "site_domain": "https://yourdomain.com",
-  "navlist": [
-    {
-      "text": "首頁",
-      "url": "/",
-      "icon": ""
-    },
-    {
-      "text": "關於我們",
-      "url": "/about",
-      "icon": ""
-    }
-  ],
-  "footers": {
-    "partners_title": "我們的合作夥伴",
-    "games": [
-      {
-        "text": "遊戲1",
-        "url": "https://yourdomain.com/game1"
-      }
-    ],
-    "info_links": [
-      {
-        "text": "首頁",
-        "url": "/"
-      }
-    ],
-    "copyright_text": "版權所有 © 2025 你的網站名稱。",
-    "copyright_logo": "https://yourdomain.com/assets/copyright-logo.png"
-  },
-  "social_share": {
-    "enabled": true,
-    "items": [
-      {
-        "platform": "Facebook",
-        "url": "https://facebook.com/yourpage",
-        "img": "https://yourdomain.com/assets/facebook-icon.webp",
-        "alt": "Facebook"
-      }
-    ]
-  }
-}
-```
-
-### 需要替換的主要參數列表：
-
-- `title` - 頁面標題
-- `website_name` - 網站名稱
-- `subtitle` - 副標題
-- `og_description` - Open Graph 描述
-- `og_image` - Open Graph 圖片 URL
-- `og_title` - Open Graph 標題
+- `title` - Page title
+- `website_name` - Website name
+- `subtitle` - Subtitle
+- `og_description` - Open Graph description
+- `og_image` - Open Graph image URL
+- `og_title` - Open Graph title
 - `og_url` - Open Graph URL
-- `og_site_name` - Open Graph 網站名稱
-- `excerpt` - 頁面摘要
-- `blog_content_html` - 主要內容 HTML
-- `blog_content_title` - 內容標題
-- `blog_content_date` - 內容日期
-- `blog_content_author_name` - 作者名稱
-- `description` - 頁面描述
-- `page_title` - 頁面標題
-- `meta_description` - Meta 描述
-- `meta_keywords` - Meta 關鍵字
+- `og_site_name` - Open Graph site name
+- `excerpt` - Page excerpt
+- `blog_content_html` - Main content HTML
+- `blog_content_title` - Content title
+- `blog_content_date` - Content date
+- `blog_content_author_name` - Author name
+- `description` - Page description
+- `page_title` - Page title
+- `meta_description` - Meta description
+- `meta_keywords` - Meta keywords
 - `meta_twitter_id` - Twitter ID
-- `logo_src` - Logo 圖片 URL
-- `site_domain` - 網站網域
-- `navlist` - 導航選單項目
-- `footers` - Footer 相關設定
-- `social_share` - 社群分享設定
+- `logo_src` - Logo image URL
+- `site_domain` - Site domain
+- `navlist` - Navigation menu items
+- `footers` - Footer related settings
+- `social_share` - Social sharing settings
 
 ## Complete Example
 
-以下是一個完整的 JSON 範例，展示了所有需要替換的參數：
+Below is a complete JSON example showing all parameters that need to be replaced:
 
 ```json
 {
-  "title": "新網站",
-  "website_name": "新網站",
-  "subtitle": "新網站副標題",
-  "og_description": "這是新網站的描述。",
+  "title": "New Website",
+  "website_name": "New Website",
+  "subtitle": "New Website Subtitle",
+  "og_description": "This is the description for the new website.",
   "og_image": "https://newsite.com/assets/og-image.webp",
-  "og_title": "新網站｜歡迎來到新網站",
+  "og_title": "New Website | Welcome to New Website",
   "og_url": "https://newsite.com",
   "og_type": "website",
-  "og_locale": "zh_TW",
-  "og_site_name": "新網站",
+  "og_locale": "en_US",
+  "og_site_name": "New Website",
   "og_image_width": 1200,
   "og_image_height": 630,
-  "excerpt": "這是新網站的簡短描述。",
-  "blog_content_html": "<h1>歡迎來到新網站</h1><p>這是你的內容...</p>",
-  "blog_content_title": "歡迎來到新網站",
+  "excerpt": "This is a short description for the new website.",
+  "blog_content_html": "<h1>Welcome to New Website</h1><p>This is your content...</p>",
+  "blog_content_title": "Welcome to New Website",
   "blog_content_date": "2025-01-15",
-  "blog_content_author_name": "網站管理員",
-  "blog_content_excerpt": "這是新網站的簡短描述。",
+  "blog_content_author_name": "Website Administrator",
+  "blog_content_excerpt": "This is a short description for the new website.",
   "blog_content_tags": [
     {
-      "name": "新網站"
+      "name": "New Website"
     }
   ],
-  "description": "這是新網站的描述。",
-  "page_title": "新網站",
-  "meta_description": "這是新網站的 SEO 描述。",
-  "meta_keywords": "新網站, 網站, 線上",
+  "description": "This is the description for the new website.",
+  "page_title": "New Website",
+  "meta_description": "This is the SEO description for the new website.",
+  "meta_keywords": "new website, website, online",
   "meta_twitter_id": "@newsite",
   "logo_src": "https://newsite.com/assets/logo.png",
-  "logo_alt": "新網站 Logo",
+  "logo_alt": "New Website Logo",
   "site_domain": "https://newsite.com",
   "navlist": [
     {
-      "text": "首頁",
+      "text": "Home",
       "url": "/",
       "icon": ""
     }
   ],
   "footers": {
-    "partners_title": "我們的合作夥伴",
-    "copyright_text": "版權所有 © 2025 新網站。"
+    "partners_title": "Our Trusted Partners",
+    "copyright_text": "Copyright © 2025 New Website."
   }
 }
 ```
 
-**注意事項：**
+**Important Notes:**
 
-- 確保所有 URL 都使用正確的網域
-- 圖片路徑應該指向實際存在的圖片檔案
-- 日期格式應為 `YYYY-MM-DD`
-- HTML 內容中的特殊字元需要正確轉義
-- 確保 JSON 格式正確（使用逗號分隔，最後一項不加逗號）
-
+- Make sure all URLs use the correct domain
+- Image paths should point to actual existing image files
+- Date format should be `YYYY-MM-DD`
+- Special characters in HTML content need to be properly escaped
+- Ensure JSON format is correct (use commas to separate, no comma after the last item)
