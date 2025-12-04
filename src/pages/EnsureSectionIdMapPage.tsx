@@ -137,51 +137,12 @@ document.addEventListener("DOMContentLoaded", function () {
   <!-- FAQ Section -->
 </section>`;
 
-  const jsonExample1 = `{
-  "section_order": [
-    "home_banner",
-    "seo_content",
-    "faq",
-    "new_html_function"
-  ]
-}`;
-
-  const jsonExample2 = `{
+  const jsonExample = `{
   "section_order": [
     { "id": "home_banner", "seq": 1 },
-    { "id": "seo_content", "seq": 2 },
-    { "id": "faq", "seq": 3 },
-    { "id": "new_html_function", "seq": 4 }
+    { "id": "faq", "seq": 2 },
+    { "id": "seo_content", "seq": 3 }
   ]
-}`;
-
-  const jsonExample3 = `{
-  "page_sections": {
-    "1": {
-      "id": "home_banner",
-      "name": "Home Banner",
-      "enabled": true,
-      "seq": 1
-    },
-    "2": {
-      "id": "seo_content",
-      "name": "SEO Content",
-      "enabled": true,
-      "seq": 2
-    },
-    "3": {
-      "id": "faq",
-      "name": "FAQ Section",
-      "enabled": true,
-      "seq": 3
-    },
-    "4": {
-      "id": "new_html_function",
-      "name": "Custom HTML",
-      "enabled": true,
-      "seq": 4
-    }
-  }
 }`;
 
   const sectionIdsList = `Available Section IDs:
@@ -200,31 +161,7 @@ document.addEventListener("DOMContentLoaded", function () {
 - new_html_function_v3
 - casino_cta_buttons_outer`;
 
-  const usageExample = `<!-- Example 1: Simple array of section IDs -->
-{
-  "section_order": ["home_banner", "seo_content", "faq"]
-}
-
-<!-- Example 2: Array with sequence numbers -->
-{
-  "section_order": [
-    { "id": "home_banner", "seq": 1 },
-    { "id": "seo_content", "seq": 2 },
-    { "id": "faq", "seq": 3 }
-  ]
-}
-
-<!-- Example 3: Using page_sections object -->
-{
-  "page_sections": {
-    "1": { "id": "home_banner", "seq": 1, "enabled": true },
-    "2": { "id": "seo_content", "seq": 2, "enabled": true },
-    "3": { "id": "faq", "seq": 3, "enabled": true }
-  }
-}
-
-<!-- Example 4: Reordering sections (FAQ before SEO) -->
-{
+  const usageExample = `{
   "section_order": [
     { "id": "home_banner", "seq": 1 },
     { "id": "faq", "seq": 2 },
@@ -332,41 +269,18 @@ document.addEventListener("DOMContentLoaded", function () {
         <section className="content-section" id="json-structure">
           <h2>JSON Structure</h2>
           <p>
-            You can define section order in your JSON file using one of three
-            formats:
-          </p>
-          <p
-            style={{ marginTop: "16px", color: "var(--color-text-secondary)" }}
-          >
-            <strong>Format 1: Simple Array of IDs</strong>
+            Configure <code>section_order</code> using objects that include both
+            an <code>id</code> and <code>seq</code> value.
           </p>
           <div style={{ marginTop: "12px" }}>
-            <CodeExample code={jsonExample1} language="json" />
-          </div>
-          <p
-            style={{ marginTop: "16px", color: "var(--color-text-secondary)" }}
-          >
-            <strong>Format 2: Array with Sequence Numbers</strong>
-          </p>
-          <div style={{ marginTop: "12px" }}>
-            <CodeExample code={jsonExample2} language="json" />
-          </div>
-          <p
-            style={{ marginTop: "16px", color: "var(--color-text-secondary)" }}
-          >
-            <strong>Format 3: page_sections Object</strong>
-          </p>
-          <div style={{ marginTop: "12px" }}>
-            <CodeExample code={jsonExample3} language="json" />
+            <CodeExample code={jsonExample} language="json" />
           </div>
           <div className="callout tip" style={{ marginTop: "24px" }}>
             <span className="callout-label">TIP</span>
             <p>
-              The function accepts <code>section_order</code> or{" "}
-              <code>page_sections</code> from your JSON. If using{" "}
-              <code>page_sections</code>, it will extract the order from the
-              object values. The <code>seq</code> property determines the order
-              (lower numbers appear first).
+              Make sure each entry has a unique <code>id</code> and an ascending
+              <code>seq</code> value—the lower the number, the earlier the
+              section appears.
             </p>
           </div>
         </section>
@@ -390,9 +304,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
         <section className="content-section" id="usage-examples">
           <h2>Usage Examples</h2>
-          <p>
-            Examples of how to configure section ordering in your JSON file.
-          </p>
+          <p>Example JSON showing a basic section order configuration.</p>
           <div style={{ marginTop: "20px" }}>
             <CodeExample code={usageExample} language="json" />
           </div>

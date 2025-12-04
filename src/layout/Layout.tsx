@@ -26,17 +26,29 @@ const BASE_SIDEBAR_SECTIONS: SidebarSection[] = [
     ],
   },
   {
+    heading: 'Functions',
+    links: [
+      { label: 'New HTML Function', href: '/new-html-function' },
+      { label: 'New CSS Function', href: '/new-css-function' },
+      { label: 'New Script Function', href: '/new-script-function' },
+      { label: 'Font Family Link', href: '/font-family-link' },
+    ],
+  },
+  {
+    heading: 'Layout',
+    links: [
+      { label: 'Header', href: '/header' },
+      { label: 'Footer', href: '/footer' },
+      { label: 'Contact Sidebar', href: '/contact-sidebar' },
+      { label: 'Theme Styling', href: '/theme-styling' },
+    ],
+  },
+  {
     heading: 'Components',
     links: [
       { label: 'All Blog Page', href: '/all-blog' },
-      { label: 'Contact Sidebar', href: '/contact-sidebar' },
-      { label: 'Back to Top Button', href: '/back-to-top' },
-      { label: 'Footer', href: '/footer' },
-      { label: 'Font Family Link', href: '/font-family-link' },
-      { label: 'Header', href: '/header' },
       { label: 'Home Banner', href: '/home-banner' },
-      { label: 'New HTML Function', href: '/new-html-function' },
-      { label: 'New CSS Function', href: '/new-css-function' },
+      { label: 'Back to Top Button', href: '/back-to-top' },
       { label: 'Ensure Section ID Map', href: '/ensure-section-id-map' },
       { label: 'Casino CTA Buttons', href: '/casino-cta-buttons' },
       { label: 'FAQ', href: '/faq' },

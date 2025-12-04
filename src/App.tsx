@@ -11,6 +11,7 @@ import HeaderPage from "./pages/HeaderPage";
 import HomeBannerPage from "./pages/HomeBannerPage";
 import NewHtmlFunctionPage from "./pages/NewHtmlFunctionPage";
 import NewCssFunctionPage from "./pages/NewCssFunctionPage";
+import NewScriptFunctionPage from "./pages/NewScriptFunctionPage";
 import EnsureSectionIdMapPage from "./pages/EnsureSectionIdMapPage";
 import CasinoCtaButtonsPage from "./pages/CasinoCtaButtonsPage";
 import FAQPage from "./pages/FAQPage";
@@ -19,6 +20,7 @@ import LandingBannerV1Page from "./pages/LandingBannerV1Page";
 import PromotionGridPage from "./pages/PromotionGridPage";
 import CategoryGridPage from "./pages/CategoryGridPage";
 import Example13YAOPage from "./pages/Example13YAOPage";
+import ThemeStylingPage from "./pages/ThemeStylingPage";
 
 function App() {
   return (
@@ -35,6 +37,7 @@ function App() {
       <Route path="/home-banner" element={<HomeBannerPage />} />
       <Route path="/new-html-function" element={<NewHtmlFunctionPage />} />
       <Route path="/new-css-function" element={<NewCssFunctionPage />} />
+      <Route path="/new-script-function" element={<NewScriptFunctionPage />} />
       <Route
         path="/ensure-section-id-map"
         element={<EnsureSectionIdMapPage />}
@@ -46,6 +49,7 @@ function App() {
       <Route path="/promotion-grid" element={<PromotionGridPage />} />
       <Route path="/category-grid" element={<CategoryGridPage />} />
       <Route path="/example-13yao" element={<Example13YAOPage />} />
+      <Route path="/theme-styling" element={<ThemeStylingPage />} />
     </Routes>
   );
 }
