@@ -1,4 +1,5 @@
-import React from 'react'
+import React, { useState, useEffect } from 'react'
+import MenuOpenRoundedIcon from '@mui/icons-material/MenuOpenRounded'
 import Sidebar from '../components/Sidebar'
 import Header from '../components/Header'
 import { TableOfContents } from '../components/TableOfContents'
@@ -66,13 +67,99 @@ export function Layout({
   sidebarTitle = 'Handlebars',
   sidebarSubtitle = 'Language Guide',
 }: LayoutProps) {
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false)
+  const [isMobile, setIsMobile] = useState(false)
+  const [isTocOpen, setIsTocOpen] = useState(true)
+  const [isTocMobile, setIsTocMobile] = useState(false)
+
+  useEffect(() => {
+    const checkMobile = () => {
+      const isSmallScreen = window.innerWidth < 768
+      setIsMobile(isSmallScreen)
+      if (!isSmallScreen) {
+        setIsSidebarOpen(true)
+      } else {
+        setIsSidebarOpen(false)
+      }
+    }
+
+    checkMobile()
+    window.addEventListener('resize', checkMobile)
+    return () => window.removeEventListener('resize', checkMobile)
+  }, [])
+
+  useEffect(() => {
+    const checkTocMobile = () => {
+      const isSmallScreen = window.innerWidth < 1200
+      setIsTocMobile(isSmallScreen)
+      if (isSmallScreen) {
+        setIsTocOpen(false)
+      } else {
+        setIsTocOpen(true)
+      }
+    }
+
+    checkTocMobile()
+    window.addEventListener('resize', checkTocMobile)
+    return () => window.removeEventListener('resize', checkTocMobile)
+  }, [])
+
+  useEffect(() => {
+    if (isMobile && isSidebarOpen) {
+      document.body.style.overflow = 'hidden'
+    } else {
+      document.body.style.overflow = ''
+    }
+    return () => {
+      document.body.style.overflow = ''
+    }
+  }, [isMobile, isSidebarOpen])
+
+  const toggleSidebar = () => {
+    setIsSidebarOpen(!isSidebarOpen)
+  }
+
+  const closeSidebar = () => {
+    setIsSidebarOpen(false)
+  }
+
+  const toggleTOC = () => {
+    setIsTocOpen(!isTocOpen)
+  }
+
+  const tocToggleButton = isTocMobile && !isTocOpen && tableOfContents.length > 0 ? (
+    <button
+      className="toc-toggle-button"
+      onClick={toggleTOC}
+      aria-label="Open table of contents"
+    >
+      <MenuOpenRoundedIcon />
+    </button>
+  ) : null
+
   return (
     <>
-      <Header />
+      <Header onMenuClick={toggleSidebar} right={tocToggleButton} />
+      {isMobile && isSidebarOpen && (
+        <div className="sidebar-backdrop" onClick={closeSidebar} aria-hidden="true" />
+      )}
       <div className="app-shell">
-        <Sidebar sections={BASE_SIDEBAR_SECTIONS} productTitle={sidebarTitle} productSubtitle={sidebarSubtitle} />
+        <Sidebar
+          sections={BASE_SIDEBAR_SECTIONS}
+          productTitle={sidebarTitle}
+          productSubtitle={sidebarSubtitle}
+          isOpen={isSidebarOpen}
+          onClose={isMobile ? closeSidebar : undefined}
+        />
         <main className="main-content">{children}</main>
-        {tableOfContents.length > 0 ? <TableOfContents items={tableOfContents} /> : null}
+        {tableOfContents.length > 0 ? (
+          <TableOfContents
+            items={tableOfContents}
+            isOpen={isTocOpen}
+            onToggle={toggleTOC}
+            isMobile={isTocMobile}
+          />
+        ) : null}
       </div>
     </>
   )

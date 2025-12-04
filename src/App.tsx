@@ -1,5 +1,6 @@
 import "./App.css";
 import { Routes, Route, Navigate } from "react-router-dom";
+import { ScrollToTop } from "./components/ScrollToTop";
 import IntroductionPage from "./pages/IntroductionPage";
 import InstallationPage from "./pages/InstallationPage";
 import AllBlogPage from "./pages/AllBlogPage";
@@ -24,7 +25,9 @@ import ThemeStylingPage from "./pages/ThemeStylingPage";
 
 function App() {
   return (
-    <Routes>
+    <>
+      <ScrollToTop />
+      <Routes>
       <Route path="/" element={<Navigate to="/introduction" replace />} />
       <Route path="/introduction" element={<IntroductionPage />} />
       <Route path="/installation" element={<InstallationPage />} />
@@ -50,7 +53,8 @@ function App() {
       <Route path="/category-grid" element={<CategoryGridPage />} />
       <Route path="/example-13yao" element={<Example13YAOPage />} />
       <Route path="/theme-styling" element={<ThemeStylingPage />} />
-    </Routes>
+      </Routes>
+    </>
   );
 }
 
