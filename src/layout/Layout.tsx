@@ -27,6 +27,12 @@ const BASE_SIDEBAR_SECTIONS: SidebarSection[] = [
     ],
   },
   {
+    heading: 'Clone',
+    links: [
+      { label: 'Clone Page', href: '/clone' },
+    ],
+  },
+  {
     heading: 'Functions',
     links: [
       { label: 'New HTML Function', href: '/new-html-function' },

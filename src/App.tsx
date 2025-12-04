@@ -22,6 +22,7 @@ import PromotionGridPage from "./pages/PromotionGridPage";
 import CategoryGridPage from "./pages/CategoryGridPage";
 import Example13YAOPage from "./pages/Example13YAOPage";
 import ThemeStylingPage from "./pages/ThemeStylingPage";
+import ClonePage from "./pages/ClonePage";
 
 function App() {
   return (
@@ -53,6 +54,7 @@ function App() {
       <Route path="/category-grid" element={<CategoryGridPage />} />
       <Route path="/example-13yao" element={<Example13YAOPage />} />
       <Route path="/theme-styling" element={<ThemeStylingPage />} />
+      <Route path="/clone" element={<ClonePage />} />
       </Routes>
     </>
   );
