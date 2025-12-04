@@ -14,41 +14,42 @@ The template uses Handlebars block helpers (`{{#if}}` and `{{#each}}`) to condit
 
 The template code for the Recent Posts section (lines 4474-4507). This code should be placed in your Handlebars template where you want the recent posts to appear.
 
-\`\`\`handlebars
+```handlebars
 {{#if recent_posts.length}}
-<section class="recent-posts">
-   <div class="container">
+  <section class="recent-posts">
+    <div class="container">
       <h2>{{recent_posts_heading}}</h2>
       <div class="recent-posts__list">
-         {{#each recent_posts}}
-         <article class="post-card">
+        {{#each recent_posts}}
+          <article class="post-card">
             <div class="post-card__image">
-               {{#if image}}
-               <img src="{{image}}" alt="{{title}}" class="post-card__img">
-               {{else}}
-               <div class="post-card__placeholder">
+              {{#if image}}
+                <img src="{{image}}" alt="{{title}}" class="post-card__img" />
+              {{else}}
+                <div class="post-card__placeholder">
                   <i class="fas fa-image"></i>
-               </div>
-               {{/if}}
+                </div>
+              {{/if}}
             </div>
             <div class="post-card__content">
-               <div class="post-card__date">{{date}}</div>
-               <h3 class="post-card__title">
-                  <a href="{{domain}}{{url}}">{{title}}</a>
-               </h3>
-               <p class="post-card__excerpt">{{excerpt}}</p>
-               <a href="{{domain}}{{url}}" class="post-card__read-more">Read More <i class="fas fa-arrow-right"></i></a>
+              <div class="post-card__date">{{date}}</div>
+              <h3 class="post-card__title">
+                <a href="{{domain}}{{url}}">{{title}}</a>
+              </h3>
+              <p class="post-card__excerpt">{{excerpt}}</p>
+              <a href="{{domain}}{{url}}" class="post-card__read-more">Read More
+                <i class="fas fa-arrow-right"></i></a>
             </div>
-         </article>
-         {{/each}}
+          </article>
+        {{/each}}
       </div>
       <div class="recent-posts__more">
-         <a href="{{domain}}/all-blog" class="btn">View All</a>
+        <a href="{{domain}}/all-blog" class="btn">View All</a>
       </div>
-   </div>
-</section>
+    </div>
+  </section>
 {{/if}}
-\`\`\`
+```
 
 > **TIP**  
 > The section only displays if `recent_posts.length` is greater than 0. If an image is not provided, a placeholder icon is shown. The "View All" button links to `{{domain}}/all-blog`.
@@ -57,7 +58,7 @@ The template code for the Recent Posts section (lines 4474-4507). This code shou
 
 Complete CSS styles for the Recent Posts section. These styles create a responsive grid layout with hover effects, smooth transitions, and professional card design.
 
-\`\`\`css
+```css
 .recent-posts {
    background-color: {{colors.white}};
    box-shadow: {{style.cardBorder}};
@@ -205,9 +206,10 @@ Complete CSS styles for the Recent Posts section. These styles create a responsi
 .recent-posts__more .btn:hover {
    background-color: {{colors.primaryLight}};
 }
-\`\`\`
+```
 
 **Key Features:**
+
 - 3-column grid layout on desktop
 - Hover effects with lift animation and shadow
 - Image zoom on hover
@@ -219,27 +221,27 @@ Complete CSS styles for the Recent Posts section. These styles create a responsi
 
 Media queries for responsive design. The grid adapts to different screen sizes: 3 columns on desktop, 2 columns on tablet, and 1 column on mobile.
 
-\`\`\`css
+```css
 /* Tablet: 2 columns */
 @media (max-width: 1024px) {
-   .recent-posts__list {
-      grid-template-columns: repeat(2, 1fr);
-   }
+  .recent-posts__list {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }
 
 /* Mobile: 1 column */
 @media (max-width: 440px) {
-   .recent-posts__list {
-      grid-template-columns: repeat(1, 1fr);
-   }
+  .recent-posts__list {
+    grid-template-columns: repeat(1, 1fr);
+  }
 }
-\`\`\`
+```
 
 ## JSON Structure
 
 The JSON structure required for the Recent Posts section. Include this in your `all-blog.json` file.
 
-\`\`\`json
+```json
 {
   "recent_posts_heading": "Recent Posts",
   "recent_posts": [
@@ -271,7 +273,7 @@ The JSON structure required for the Recent Posts section. Include this in your `
     "// Add your custom JavaScript here"
   ]
 }
-\`\`\`
+```
 
 > **TIP**  
 > Each post object requires: `title`, `date`, `excerpt`, `url`, and optionally `image`. The `domain` field is used to construct full URLs for links.
@@ -280,24 +282,24 @@ The JSON structure required for the Recent Posts section. Include this in your `
 
 Custom JavaScript functions can be added using the `new_script_function` array. Each item in the array is rendered as a script block in the template head section.
 
-\`\`\`html
+```html
 <!-- Custom Script Function -->
 <script id="user-extra-script">
-   {{#each new_script_function}} 
-   {{{this}}}
-   {{/each}}
+  {{#each new_script_function}}
+  {{{this}}}
+  {{/each}}
 </script>
-\`\`\`
+```
 
 In your JSON, include scripts like this:
 
-\`\`\`json
+```json
 "new_script_function": [
   "console.log('Custom script loaded');",
   "// Add your custom JavaScript here",
   "function initCustomFeatures() { /* your code */ }"
 ]
-\`\`\`
+```
 
 ## Complete Example
 
@@ -305,4 +307,3 @@ A complete working example showing how all the pieces fit together. Copy this st
 
 > **NOTE**  
 > Make sure to replace all Handlebars variable placeholders (like `{{colors.white}}`) with actual values or ensure your template engine processes them correctly. The CSS uses Handlebars expressions for dynamic theming.
-

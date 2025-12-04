@@ -22,14 +22,14 @@ The button features:
 
 The HTML template code for the Back to Top Button. This code should be placed in your Handlebars template, typically near the end of the body before closing tags.
 
-\`\`\`handlebars
+```handlebars
 <!-- Back to Top Button -->
 {{#if back_to_top.enabled}}
 <button id="backToTopBtn" class="back-to-top-btn" style="display: none;">
   <img src="{{back_to_top.icon}}" alt="Back to Top" class="back-to-top-icon">
 </button>
 {{/if}}
-\`\`\`
+```
 
 **Key Features:**
 - Conditional rendering with `{{#if back_to_top.enabled}}`
@@ -41,7 +41,7 @@ The HTML template code for the Back to Top Button. This code should be placed in
 
 Complete CSS styles for the Back to Top Button. These styles create a fixed circular button with smooth transitions and hover effects.
 
-\`\`\`css
+```css
 .back-to-top-btn {
   position: fixed;
   bottom: 90px;
@@ -68,7 +68,7 @@ Complete CSS styles for the Back to Top Button. These styles create a fixed circ
   height: 100%;
   object-fit: contain;
 }
-\`\`\`
+```
 
 **Key Features:**
 - Fixed positioning in bottom-right corner
@@ -82,7 +82,7 @@ Complete CSS styles for the Back to Top Button. These styles create a fixed circ
 
 The JavaScript code that handles the Back to Top Button functionality. This script monitors scroll position and shows/hides the button accordingly, then handles the smooth scroll-to-top action.
 
-\`\`\`javascript
+```javascript
 // Back to Top Button Functionality
 (function() {
   const backToTopBtn = document.getElementById('backToTopBtn');
@@ -118,7 +118,7 @@ The JavaScript code that handles the Back to Top Button functionality. This scri
     });
   });
 })();
-\`\`\`
+```
 
 **How it works:**
 
@@ -131,7 +131,7 @@ The JavaScript code that handles the Back to Top Button functionality. This scri
 
 Media queries for mobile devices. On screens smaller than 768px, the button size and position are adjusted for better mobile experience.
 
-\`\`\`css
+```css
 @media (max-width: 768px) {
   .back-to-top-btn {
     bottom: 85px;
@@ -140,13 +140,13 @@ Media queries for mobile devices. On screens smaller than 768px, the button size
     height: 45px;
   }
 }
-\`\`\`
+```
 
 ## JSON Structure
 
 The JSON structure required for the Back to Top Button. Include this in your template JSON file.
 
-\`\`\`json
+```json
 {
   "back_to_top": {
     "enabled": true,
@@ -154,7 +154,7 @@ The JSON structure required for the Back to Top Button. Include this in your tem
     "scroll_threshold": 50
   }
 }
-\`\`\`
+```
 
 > **TIP**  
 > The `scroll_threshold` value determines how many pixels the user must scroll before the button appears. A value of 50 means the button will show after scrolling 50px down the page. Adjust this value based on your design needs.
