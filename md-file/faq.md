@@ -207,8 +207,8 @@ The FAQ section requires an array of items, each containing a question and answe
         "icon": "info-circle"
       },
       {
-        "question": "Is online gambling legal in Online?",
-        "answer": "Online gambling in Online is regulated. Licensed sites can operate legally, and players are advised to choose only licensed platforms for safety.",
+        "question": "Is online gaming legal in Online?",
+        "answer": "Online gaming in Online is regulated. Licensed sites can operate legally, and players are advised to choose only licensed platforms for safety.",
         "icon": "gavel"
       },
       {

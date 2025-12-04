@@ -547,13 +547,13 @@ The JSON structure required for the Footer component. Include this in your templ
         "url": "/privacy-policy"
       },
       {
-        "text": "Responsible Gambling",
-        "url": "/responsible-gambling"
+        "text": "Responsible gaming",
+        "url": "/responsible-gaming"
       }
     ],
     "certifications": [
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/8bB9X2Ev96.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/8bB9X2Ev96.png",
         "alt": "BMM Logo",
         "width": "60",
         "height": "36"
@@ -561,20 +561,20 @@ The JSON structure required for the Footer component. Include this in your templ
     ],
     "responsible_gaming": [
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/8bB9X2Ev96.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/8bB9X2Ev96.png",
         "alt": "18+ Only",
         "width": "38",
         "height": "38"
       }
     ],
     "powered_by_text": "Powered By",
-    "copyright_logo": "https://api.infin1x.com/assets/manual_upload/file-1761306388277-439952939.gif",
+    "copyright_logo": "https://api.abcdef.com/assets/manual_upload/file-1761306388277-439952939.gif",
     "copyright_text": "Copyright Speedpgk33 @ 2025. All rights reserved."
   },
   "vendor_track": [
     {
       "code": "AUDPLAY168",
-      "icon": "https://api.infin1x.com/assets/manual_upload/file-1759944896212-770437428.gif",
+      "icon": "https://api.abcdef.com/assets/manual_upload/file-1759944896212-770437428.gif",
       "name": "AUDPLAY168",
       "url": ""
     }
@@ -585,7 +585,7 @@ The JSON structure required for the Footer component. Include this in your templ
       {
         "platform": "Facebook",
         "url": "https://s4.winners33slot.online",
-        "img": "https://api.infin1x.com/assets/manual_upload/A5lNiNWlu3.webp",
+        "img": "https://api.abcdef.com/assets/manual_upload/A5lNiNWlu3.webp",
         "alt": "Facebook"
       }
     ]

@@ -1,4 +1,3 @@
-
 import Layout from "../layout/Layout";
 import type { TocItem } from "../types/navigation";
 import { CodeExample } from "../components/CodeExample";
@@ -133,7 +132,7 @@ export default function PromotionGridPage() {
   const jsonExample = `{
   "promotion_grid": {
     "enabled": true,
-    "title": "Trusted Online Casino Games Online",
+    "title": "Trusted Online Gaming Games Online",
     "items": [
       {
         "title": "Live Casino",
@@ -175,17 +174,24 @@ export default function PromotionGridPage() {
       <section id="overview">
         <h2>Overview</h2>
         <p>
-          The <code>promotion_grid</code> component displays a grid of promotional items, typically showing game categories or promotional offers. Each item consists of a square image with a title and optional subtitle below it.
+          The <code>promotion_grid</code> component displays a grid of
+          promotional items, typically showing game categories or promotional
+          offers. Each item consists of a square image with a title and optional
+          subtitle below it.
         </p>
         <p>
-          The component uses a 4-column grid layout on desktop, with each item maintaining a 1:1 aspect ratio. Images are clickable and link to the specified URL. The grid is responsive and adapts to smaller screens.
+          The component uses a 4-column grid layout on desktop, with each item
+          maintaining a 1:1 aspect ratio. Images are clickable and link to the
+          specified URL. The grid is responsive and adapts to smaller screens.
         </p>
       </section>
 
       <section id="html-structure">
         <h2>HTML Structure</h2>
         <p>
-          The component consists of a section wrapper with a title container and an image grid. Each grid item contains an anchor-wrapped image and a text container with the title and optional subtitle.
+          The component consists of a section wrapper with a title container and
+          an image grid. Each grid item contains an anchor-wrapped image and a
+          text container with the title and optional subtitle.
         </p>
         <CodeExample code={htmlTemplate} language="handlebars" />
       </section>
@@ -193,7 +199,10 @@ export default function PromotionGridPage() {
       <section id="css-styles">
         <h2>CSS Styles</h2>
         <p>
-          The CSS uses CSS Grid for the main layout, with 4 columns on desktop. Each item maintains a square aspect ratio (1:1) and includes hover effects. The title and subtitle are styled with the primary color from the theme.
+          The CSS uses CSS Grid for the main layout, with 4 columns on desktop.
+          Each item maintains a square aspect ratio (1:1) and includes hover
+          effects. The title and subtitle are styled with the primary color from
+          the theme.
         </p>
         <CodeExample code={cssStyles} language="css" />
       </section>
@@ -201,7 +210,8 @@ export default function PromotionGridPage() {
       <section id="responsive-css">
         <h2>Responsive CSS</h2>
         <p>
-          On mobile devices (max-width: 768px), the grid switches to 2 columns and adjusts the height to auto for better display on smaller screens.
+          On mobile devices (max-width: 768px), the grid switches to 2 columns
+          and adjusts the height to auto for better display on smaller screens.
         </p>
         <CodeExample code={responsiveCss} language="css" />
       </section>
@@ -209,14 +219,18 @@ export default function PromotionGridPage() {
       <section id="json-structure">
         <h2>JSON Structure</h2>
         <p>
-          The component requires a <code>promotion_grid</code> object with an <code>enabled</code> flag, a <code>title</code>, and an <code>items</code> array. Each item should have an image, URL, alt text, and title. The <code>subtitle</code> property is optional.
+          The component requires a <code>promotion_grid</code> object with an{" "}
+          <code>enabled</code> flag, a <code>title</code>, and an{" "}
+          <code>items</code> array. Each item should have an image, URL, alt
+          text, and title. The <code>subtitle</code> property is optional.
         </p>
         <CodeExample code={jsonExample} language="json" />
         <p>
-          <strong>Note:</strong> The component typically displays 4 items in a row, but you can add more items and they will wrap to additional rows as needed.
+          <strong>Note:</strong> The component typically displays 4 items in a
+          row, but you can add more items and they will wrap to additional rows
+          as needed.
         </p>
       </section>
     </Layout>
   );
 }
-

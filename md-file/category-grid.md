@@ -210,7 +210,7 @@ The component requires a `category_grid` object with an `enabled` flag, optional
 {
   "category_grid": {
     "enabled": true,
-    "title": "Trusted Online Casino Games Online",
+    "title": "Trusted Online Gaming Games Online",
     "description": "Explore our wide selection of casino games",
     "items": [
       {

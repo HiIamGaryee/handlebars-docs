@@ -204,11 +204,11 @@ export default function HeaderPage() {
 }`;
 
   const jsonExample = `{
-  "logo_src": "https://api.infin1x.com/assets/manual_upload/logo.png",
+  "logo_src": "https://api.abcdef.com/assets/manual_upload/logo.png",
   "logo_alt": "Your Logo",
-  "hamburger_icon": "https://api.infin1x.com/assets/manual_upload/menu-icon.webp",
+  "hamburger_icon": "https://api.abcdef.com/assets/manual_upload/menu-icon.webp",
   "site_domain": "https://yourwebsite.com",
-  "certImg": "https://api.infin1x.com/assets/manual_upload/certificate.png",
+  "certImg": "https://api.abcdef.com/assets/manual_upload/certificate.png",
   "certUrl": "https://yourwebsite.com/certificate",
   "accountPanel": {
     "login": {
@@ -231,7 +231,7 @@ export default function HeaderPage() {
     {
       "text": "Games",
       "url": "/games",
-      "icon": "https://api.infin1x.com/assets/manual_upload/games-icon.png"
+      "icon": "https://api.abcdef.com/assets/manual_upload/games-icon.png"
     }
   ],
   "notices": {

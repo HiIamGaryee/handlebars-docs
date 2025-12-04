@@ -507,37 +507,37 @@ export default function FooterPage() {
         "url": "/privacy-policy"
       },
       {
-        "text": "Responsible Gambling",
-        "url": "/responsible-gambling"
+        "text": "Responsible gaming",
+        "url": "/responsible-gaming"
       }
     ],
     "certifications": [
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/8bB9X2Ev96.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/8bB9X2Ev96.png",
         "alt": "BMM Logo",
         "width": "60",
         "height": "36"
       },
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/Kzh0Gw9jrb.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/Kzh0Gw9jrb.png",
         "alt": "iTech Labs",
         "width": "50",
         "height": "50"
       },
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/PZx8jjmW3e.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/PZx8jjmW3e.png",
         "alt": "Gaming International",
         "width": "50",
         "height": "50"
       },
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/VzR2IdrZxZ.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/VzR2IdrZxZ.png",
         "alt": "Payout Review International",
         "width": "90",
         "height": "54"
       },
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/whGlCfeMDB.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/whGlCfeMDB.png",
         "alt": "GoDaddy Verified",
         "width": "120",
         "height": "72"
@@ -545,44 +545,44 @@ export default function FooterPage() {
     ],
     "responsible_gaming": [
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/8bB9X2Ev96.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/8bB9X2Ev96.png",
         "alt": "18+ Only",
         "width": "38",
         "height": "38"
       },
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/whGlCfeMDB.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/whGlCfeMDB.png",
         "alt": "Game Care",
         "width": "38",
         "height": "38"
       },
       {
-        "src": "https://api.infin1x.com/assets/manual_upload/VzR2IdrZxZ.png",
+        "src": "https://api.abcdef.com/assets/manual_upload/VzR2IdrZxZ.png",
         "alt": "Be Gamble Aware",
         "width": "38",
         "height": "38"
       }
     ],
     "powered_by_text": "Powered By",
-    "copyright_logo": "https://api.infin1x.com/assets/manual_upload/file-1761306388277-439952939.gif",
+    "copyright_logo": "https://api.abcdef.com/assets/manual_upload/file-1761306388277-439952939.gif",
     "copyright_text": "Copyright Speedpgk33 @ 2025. All rights reserved."
   },
   "vendor_track": [
     {
       "code": "AUDPLAY168",
-      "icon": "https://api.infin1x.com/assets/manual_upload/file-1759944896212-770437428.gif",
+      "icon": "https://api.abcdef.com/assets/manual_upload/file-1759944896212-770437428.gif",
       "name": "AUDPLAY168",
       "url": ""
     },
     {
       "code": "UNITEDAU",
-      "icon": "https://api.infin1x.com/assets/manual_upload/file-1759945498240-899108802.gif",
+      "icon": "https://api.abcdef.com/assets/manual_upload/file-1759945498240-899108802.gif",
       "name": "UNITEDAU",
       "url": ""
     },
     {
       "code": "MRPOKIES",
-      "icon": "https://api.infin1x.com/assets/manual_upload/file-1759945203759-91444594.gif",
+      "icon": "https://api.abcdef.com/assets/manual_upload/file-1759945203759-91444594.gif",
       "name": "MRPOKIES",
       "url": ""
     }
@@ -593,25 +593,25 @@ export default function FooterPage() {
       {
         "platform": "Facebook",
         "url": "https://s4.winners33slot.online",
-        "img": "https://api.infin1x.com/assets/manual_upload/A5lNiNWlu3.webp",
+        "img": "https://api.abcdef.com/assets/manual_upload/A5lNiNWlu3.webp",
         "alt": "Facebook"
       },
       {
         "platform": "Instagram",
         "url": "https://s4.winners33slot.online",
-        "img": "https://api.infin1x.com/assets/manual_upload/1czFxY8S5z.webp",
+        "img": "https://api.abcdef.com/assets/manual_upload/1czFxY8S5z.webp",
         "alt": "Instagram"
       },
       {
         "platform": "Youtube",
         "url": "https://s4.winners33slot.online",
-        "img": "https://api.infin1x.com/assets/manual_upload/a7GUSJkiGG.webp",
+        "img": "https://api.abcdef.com/assets/manual_upload/a7GUSJkiGG.webp",
         "alt": "Youtube"
       },
       {
         "platform": "X",
         "url": "https://s4.winners33slot.online",
-        "img": "https://api.infin1x.com/assets/manual_upload/XzNnPRvIcc.webp",
+        "img": "https://api.abcdef.com/assets/manual_upload/XzNnPRvIcc.webp",
         "alt": "X"
       }
     ]

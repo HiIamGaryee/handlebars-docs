@@ -152,7 +152,7 @@ The component requires a `promotion_grid` object with an `enabled` flag, a `titl
 {
   "promotion_grid": {
     "enabled": true,
-    "title": "Trusted Online Casino Games Online",
+    "title": "Trusted Online Gaming Games Online",
     "items": [
       {
         "title": "Live Casino",

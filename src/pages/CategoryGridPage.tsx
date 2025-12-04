@@ -1,4 +1,3 @@
-
 import Layout from "../layout/Layout";
 import type { TocItem } from "../types/navigation";
 import { CodeExample } from "../components/CodeExample";
@@ -191,7 +190,7 @@ export default function CategoryGridPage() {
   const jsonExample = `{
   "category_grid": {
     "enabled": true,
-    "title": "Trusted Online Casino Games Online",
+    "title": "Trusted Online Gaming Games Online",
     "description": "Explore our wide selection of casino games",
     "items": [
       {
@@ -230,17 +229,27 @@ export default function CategoryGridPage() {
       <section id="overview">
         <h2>Overview</h2>
         <p>
-          The <code>category_grid</code> component displays a vertical stack of category cards, each containing text content and an optional image. Unlike <code>category_grid_each</code> which uses a horizontal grid layout, this component displays items in a single column with a horizontal card layout (text on left, image on right).
+          The <code>category_grid</code> component displays a vertical stack of
+          category cards, each containing text content and an optional image.
+          Unlike <code>category_grid_each</code> which uses a horizontal grid
+          layout, this component displays items in a single column with a
+          horizontal card layout (text on left, image on right).
         </p>
         <p>
-          Each card can have a background color or background image, and the entire card is clickable if a URL is provided. The component is fully responsive and adapts to mobile devices by stacking the content vertically.
+          Each card can have a background color or background image, and the
+          entire card is clickable if a URL is provided. The component is fully
+          responsive and adapts to mobile devices by stacking the content
+          vertically.
         </p>
       </section>
 
       <section id="html-structure">
         <h2>HTML Structure</h2>
         <p>
-          The component uses a single-column grid container with individual article cards. Each card contains a flex container with text content and an optional image. An overlay link makes the entire card clickable.
+          The component uses a single-column grid container with individual
+          article cards. Each card contains a flex container with text content
+          and an optional image. An overlay link makes the entire card
+          clickable.
         </p>
         <CodeExample code={htmlTemplate} language="handlebars" />
       </section>
@@ -248,7 +257,10 @@ export default function CategoryGridPage() {
       <section id="css-styles">
         <h2>CSS Styles</h2>
         <p>
-          The CSS uses a single-column grid layout with flexbox for the card content. Cards have a minimum height and use flexbox to align text and images horizontally. The overlay link covers the entire card area for better UX.
+          The CSS uses a single-column grid layout with flexbox for the card
+          content. Cards have a minimum height and use flexbox to align text and
+          images horizontally. The overlay link covers the entire card area for
+          better UX.
         </p>
         <CodeExample code={cssStyles} language="css" />
       </section>
@@ -256,7 +268,9 @@ export default function CategoryGridPage() {
       <section id="responsive-css">
         <h2>Responsive CSS</h2>
         <p>
-          On mobile devices (max-width: 768px), the card content switches to a vertical layout with the image centered above the text. The image size is also reduced for better mobile display.
+          On mobile devices (max-width: 768px), the card content switches to a
+          vertical layout with the image centered above the text. The image size
+          is also reduced for better mobile display.
         </p>
         <CodeExample code={responsiveCss} language="css" />
       </section>
@@ -264,14 +278,20 @@ export default function CategoryGridPage() {
       <section id="json-structure">
         <h2>JSON Structure</h2>
         <p>
-          The component requires a <code>category_grid</code> object with an <code>enabled</code> flag, optional <code>title</code> and <code>description</code>, and an <code>items</code> array. Each item can have a title, description (or subtitle), image, URL, and optional background styling.
+          The component requires a <code>category_grid</code> object with an{" "}
+          <code>enabled</code> flag, optional <code>title</code> and{" "}
+          <code>description</code>, and an <code>items</code> array. Each item
+          can have a title, description (or subtitle), image, URL, and optional
+          background styling.
         </p>
         <CodeExample code={jsonExample} language="json" />
         <p>
-          <strong>Note:</strong> The <code>bg_image</code> property takes precedence over <code>bg_color</code>. If neither is provided, the card will use the default background color from <code>colors.modePaperBg</code>.
+          <strong>Note:</strong> The <code>bg_image</code> property takes
+          precedence over <code>bg_color</code>. If neither is provided, the
+          card will use the default background color from{" "}
+          <code>colors.modePaperBg</code>.
         </p>
       </section>
     </Layout>
   );
 }
-

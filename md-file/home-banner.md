@@ -182,16 +182,16 @@ The JSON structure required for the Home Banner component.
     "backgroundColor": "linear-gradient(135deg,#1a1a1a 0%,#2d2d2d 100%)",
     "slides": [
       {
-        "image": "https://api.infin1x.com/assets/manual_upload/banner-desktop.webp",
-        "mobileImg": "https://api.infin1x.com/assets/manual_upload/banner-mobile.webp",
+        "image": "https://api.abcdef.com/assets/manual_upload/banner-desktop.webp",
+        "mobileImg": "https://api.abcdef.com/assets/manual_upload/banner-mobile.webp",
         "altText": "Banner 1 - Greatest Promotion",
         "title": "Special Offer",
         "redirect": true,
         "url": "https://yourwebsite.com/promo"
       },
       {
-        "image": "https://api.infin1x.com/assets/manual_upload/banner2-desktop.webp",
-        "mobileImgs": "https://api.infin1x.com/assets/manual_upload/banner2-mobile.webp",
+        "image": "https://api.abcdef.com/assets/manual_upload/banner2-desktop.webp",
+        "mobileImgs": "https://api.abcdef.com/assets/manual_upload/banner2-mobile.webp",
         "altText": "Banner 2 - Largest Casino",
         "title": "New Games",
         "redirect": false
