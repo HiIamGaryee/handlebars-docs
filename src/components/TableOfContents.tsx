@@ -1,4 +1,3 @@
-import React from 'react'
 import CloseRoundedIcon from '@mui/icons-material/CloseRounded'
 import type { TocItem } from '../types/navigation'
 
