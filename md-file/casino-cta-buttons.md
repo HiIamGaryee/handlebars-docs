@@ -176,3 +176,5 @@ The component requires configuration in the JSON data file. The `cta_buttons` ob
 
 **Note:** The `bg_img` property is optional. If provided, it will override the `bg_color` setting. If not provided or empty, the button will use the background color instead.
 
+
+

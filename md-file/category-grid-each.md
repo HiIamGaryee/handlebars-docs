@@ -178,3 +178,5 @@ The component requires a `category_grid_each` object with an `enabled` flag, opt
 
 **Note:** The `link_text` property is optional. If not provided, the default text "Read more »" will be used.
 
+
+

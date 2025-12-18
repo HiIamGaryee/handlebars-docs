@@ -233,3 +233,5 @@ A complete working example showing how all the pieces fit together. Copy this st
 > **TIP**  
 > The sidebar position can be adjusted by changing the `bottom` and `right` CSS properties. The `z-index: 1000` ensures it appears above other content.
 
+
+

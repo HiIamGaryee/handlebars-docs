@@ -245,3 +245,5 @@ The component requires a `category_grid` object with an `enabled` flag, optional
 
 **Note:** The `bg_image` property takes precedence over `bg_color`. If neither is provided, the card will use the default background color from `colors.modePaperBg`.
 
+
+

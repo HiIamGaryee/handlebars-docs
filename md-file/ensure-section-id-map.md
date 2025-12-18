@@ -220,3 +220,5 @@ Example JSON showing a basic section order configuration.
 > **TIP**  
 > To reorder sections, simply change the sequence numbers in your JSON. Sections will be automatically reordered on page load. You can also use simple string arrays if you don't need custom sequence numbers.
 
+
+

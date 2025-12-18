@@ -603,3 +603,5 @@ A complete working example showing how all the pieces fit together. Copy this st
 > **NOTE**  
 > The footer uses background images and color variables from your theme. Make sure to replace all Handlebars variable placeholders (like `{{colors.footer_bg}}`) with actual values or ensure your template engine processes them correctly.
 
+
+

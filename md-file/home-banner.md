@@ -206,3 +206,5 @@ The JSON structure required for the Home Banner component.
 > **TIP**  
 > Use `mobileImg` or `mobileImgs` for mobile images. The component automatically shows the appropriate image based on screen size. Set `redirect: true` and provide a `url` to make slides clickable.
 
+
+

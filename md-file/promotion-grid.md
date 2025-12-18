@@ -190,3 +190,5 @@ The component requires a `promotion_grid` object with an `enabled` flag, a `titl
 
 **Note:** The component typically displays 4 items in a row, but you can add more items and they will wrap to additional rows as needed.
 
+
+

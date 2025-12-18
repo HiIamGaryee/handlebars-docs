@@ -276,3 +276,5 @@ Examples of different header configurations.
 > **TIP**  
 > The header uses conditional rendering for all optional elements. If `navlist` is not provided, the navigation bar won't render. The same applies to login/register buttons and certificate badge.
 
+
+

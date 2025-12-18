@@ -162,3 +162,5 @@ Each version requires its own configuration object in the JSON file. The structu
 
 **Note:** The `new_tab` property determines whether the link opens in a new tab. Set to `true` for external links and `false` for internal navigation.
 
+
+
