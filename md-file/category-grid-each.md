@@ -180,3 +180,6 @@ The component requires a `category_grid_each` object with an `enabled` flag, opt
 
 
 
+
+
+

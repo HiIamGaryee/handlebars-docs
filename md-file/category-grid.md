@@ -247,3 +247,6 @@ The component requires a `category_grid` object with an `enabled` flag, optional
 
 
 
+
+
+

@@ -192,3 +192,6 @@ The component requires a `promotion_grid` object with an `enabled` flag, a `titl
 
 
 
+
+
+
